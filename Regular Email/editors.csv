@@ -1,0 +1,624 @@
+Name
+Name,Creator
+Name,Creator,First public release
+Name,Creator,First public release,Latest stable version
+Name,Creator,First public release,Latest stable version,Programming language
+Name,Creator,First public release,Latest stable version,Programming language,Cost (US$)
+Name,Creator,First public release,Latest stable version,Programming language,Cost (US$),Software license
+Name,Creator,First public release,Latest stable version,Programming language,Cost (US$),Software license,Open source
+Acme
+Acme,Rob Pike
+Acme,Rob Pike,1993
+Acme,Rob Pike,1993,Plan 9 and Inferno
+Acme,Rob Pike,1993,Plan 9 and Inferno,C
+Acme,Rob Pike,1993,Plan 9 and Inferno,C,Free
+Acme,Rob Pike,1993,Plan 9 and Inferno,C,Free,LPL (OSI approved)
+Acme,Rob Pike,1993,Plan 9 and Inferno,C,Free,LPL (OSI approved),Yes
+AkelPad
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts"
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7,C
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7,C,Free
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7,C,Free,BSD
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7,C,Free,BSD,Yes
+Alphatk
+Alphatk,Vince Darley
+Alphatk,Vince Darley,1999
+Alphatk,Vince Darley,1999,8.3.3
+Alphatk,Vince Darley,1999,8.3.3,
+Alphatk,Vince Darley,1999,8.3.3,,$40
+Alphatk,Vince Darley,1999,8.3.3,,$40,"Proprietary, with BSD components"
+Alphatk,Vince Darley,1999,8.3.3,,$40,"Proprietary, with BSD components",No
+Aquamacs
+Aquamacs,David Reitter
+Aquamacs,David Reitter,2005
+Aquamacs,David Reitter,2005,3.2
+Aquamacs,David Reitter,2005,3.2,"C, Emacs Lisp"
+Aquamacs,David Reitter,2005,3.2,"C, Emacs Lisp",Free
+Aquamacs,David Reitter,2005,3.2,"C, Emacs Lisp",Free,GPL
+Aquamacs,David Reitter,2005,3.2,"C, Emacs Lisp",Free,GPL,Yes
+Atom
+Atom,GitHub
+Atom,GitHub,2014
+Atom,GitHub,2014,1.9.9
+Atom,GitHub,2014,1.9.9,"HTML, CSS, JavaScript, C++"
+Atom,GitHub,2014,1.9.9,"HTML, CSS, JavaScript, C++",Free
+Atom,GitHub,2014,1.9.9,"HTML, CSS, JavaScript, C++",Free,MIT
+Atom,GitHub,2014,1.9.9,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+BBEdit
+BBEdit,Rich Siegel
+BBEdit,Rich Siegel,1992-04
+BBEdit,Rich Siegel,1992-04,11
+BBEdit,Rich Siegel,1992-04,11,"Objective-C, Objective-C++"
+BBEdit,Rich Siegel,1992-04,11,"Objective-C, Objective-C++",$49.99
+BBEdit,Rich Siegel,1992-04,11,"Objective-C, Objective-C++",$49.99,Proprietary
+BBEdit,Rich Siegel,1992-04,11,"Objective-C, Objective-C++",$49.99,Proprietary,No
+Bluefish
+Bluefish,Bluefish Development Team
+Bluefish,Bluefish Development Team,1999
+Bluefish,Bluefish Development Team,1999,2.2.9
+Bluefish,Bluefish Development Team,1999,2.2.9,C
+Bluefish,Bluefish Development Team,1999,2.2.9,C,Free
+Bluefish,Bluefish Development Team,1999,2.2.9,C,Free,GPL
+Bluefish,Bluefish Development Team,1999,2.2.9,C,Free,GPL,Yes
+Brackets
+Brackets,Adobe Systems
+Brackets,Adobe Systems,2012
+Brackets,Adobe Systems,2012,1.8
+Brackets,Adobe Systems,2012,1.8,"HTML, CSS, JavaScript, C++"
+Brackets,Adobe Systems,2012,1.8,"HTML, CSS, JavaScript, C++",Free
+Brackets,Adobe Systems,2012,1.8,"HTML, CSS, JavaScript, C++",Free,MIT
+Brackets,Adobe Systems,2012,1.8,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+Coda
+Coda,Panic
+Coda,Panic,2007
+Coda,Panic,2007,2.0.12
+Coda,Panic,2007,2.0.12,Objective-C
+Coda,Panic,2007,2.0.12,Objective-C,$99
+Coda,Panic,2007,2.0.12,Objective-C,$99,Proprietary
+Coda,Panic,2007,2.0.12,Objective-C,$99,Proprietary,No
+ConTEXT
+ConTEXT,ConTEXT Project Ltd
+ConTEXT,ConTEXT Project Ltd,1999
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,Object Pascal (Delphi)
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,Object Pascal (Delphi),Free
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,Object Pascal (Delphi),Free,BSD
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,Object Pascal (Delphi),Free,BSD,Yes
+Crimson Editor
+Crimson Editor,"Ingyu Kang, Emerald Editor Team"
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,C++
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,C++,Free
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,C++,Free,GPL
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,C++,Free,GPL,Yes
+Diakonos
+Diakonos,Pistos
+Diakonos,Pistos,2004
+Diakonos,Pistos,2004,0.9.4
+Diakonos,Pistos,2004,0.9.4,Ruby
+Diakonos,Pistos,2004,0.9.4,Ruby,Free
+Diakonos,Pistos,2004,0.9.4,Ruby,Free,MIT
+Diakonos,Pistos,2004,0.9.4,Ruby,Free,MIT,Yes
+E Text Editor
+E Text Editor,Alexander Stigsen
+E Text Editor,Alexander Stigsen,2005
+E Text Editor,Alexander Stigsen,2005,2.0.2
+E Text Editor,Alexander Stigsen,2005,2.0.2,
+E Text Editor,Alexander Stigsen,2005,2.0.2,,$46.95
+E Text Editor,Alexander Stigsen,2005,2.0.2,,$46.95,"Proprietary, with BSD components"
+E Text Editor,Alexander Stigsen,2005,2.0.2,,$46.95,"Proprietary, with BSD components",No
+ed
+ed,Ken Thompson
+ed,Ken Thompson,1970
+ed,Ken Thompson,1970,unchanged from original
+ed,Ken Thompson,1970,unchanged from original,C
+ed,Ken Thompson,1970,unchanged from original,C,Free
+ed,Ken Thompson,1970,unchanged from original,C,Free,?
+ed,Ken Thompson,1970,unchanged from original,C,Free,?,Yes
+EditPlus
+EditPlus,Sangil Kim
+EditPlus,Sangil Kim,1998
+EditPlus,Sangil Kim,1998,3.80 (build 961)
+EditPlus,Sangil Kim,1998,3.80 (build 961),C++
+EditPlus,Sangil Kim,1998,3.80 (build 961),C++,$35
+EditPlus,Sangil Kim,1998,3.80 (build 961),C++,$35,Shareware
+EditPlus,Sangil Kim,1998,3.80 (build 961),C++,$35,Shareware,No
+Editra
+Editra,Cody Precord
+Editra,Cody Precord,2007
+Editra,Cody Precord,2007,0.7.20
+Editra,Cody Precord,2007,0.7.20,Python
+Editra,Cody Precord,2007,0.7.20,Python,Free
+Editra,Cody Precord,2007,0.7.20,Python,Free,wxWindows license
+Editra,Cody Precord,2007,0.7.20,Python,Free,wxWindows license,Yes
+EmEditor
+EmEditor,"Emurasoft, Inc."
+EmEditor,"Emurasoft, Inc.",1997
+EmEditor,"Emurasoft, Inc.",1997,15.7.2
+EmEditor,"Emurasoft, Inc.",1997,15.7.2,
+EmEditor,"Emurasoft, Inc.",1997,15.7.2,,$39.99 1-user
+EmEditor,"Emurasoft, Inc.",1997,15.7.2,,$39.99 1-user,Shareware
+EmEditor,"Emurasoft, Inc.",1997,15.7.2,,$39.99 1-user,Shareware,No
+epsilon
+epsilon,Lugaru Software
+epsilon,Lugaru Software,1984
+epsilon,Lugaru Software,1984,13.06
+epsilon,Lugaru Software,1984,13.06,C
+epsilon,Lugaru Software,1984,13.06,C,$250
+epsilon,Lugaru Software,1984,13.06,C,$250,Proprietary
+epsilon,Lugaru Software,1984,13.06,C,$250,Proprietary,No
+gedit
+gedit,GNU Project
+gedit,GNU Project,2000
+gedit,GNU Project,2000,3.20.2
+gedit,GNU Project,2000,3.20.2,C
+gedit,GNU Project,2000,3.20.2,C,Free
+gedit,GNU Project,2000,3.20.2,C,Free,GPL
+gedit,GNU Project,2000,3.20.2,C,Free,GPL,Yes
+Geany
+Geany,Enrico Tröger
+Geany,Enrico Tröger,2005
+Geany,Enrico Tröger,2005,1.27
+Geany,Enrico Tröger,2005,1.27,"C, GTK2"
+Geany,Enrico Tröger,2005,1.27,"C, GTK2",Free
+Geany,Enrico Tröger,2005,1.27,"C, GTK2",Free,GPL
+Geany,Enrico Tröger,2005,1.27,"C, GTK2",Free,GPL,Yes
+GNU Emacs
+GNU Emacs,Richard Stallman
+GNU Emacs,Richard Stallman,1984
+GNU Emacs,Richard Stallman,1984,24.5
+GNU Emacs,Richard Stallman,1984,24.5,"C, Emacs Lisp"
+GNU Emacs,Richard Stallman,1984,24.5,"C, Emacs Lisp",Free
+GNU Emacs,Richard Stallman,1984,24.5,"C, Emacs Lisp",Free,GPL
+GNU Emacs,Richard Stallman,1984,24.5,"C, Emacs Lisp",Free,GPL,Yes
+Gobby
+Gobby,0x539 dev group
+Gobby,0x539 dev group,2005
+Gobby,0x539 dev group,2005,0.4.12
+Gobby,0x539 dev group,2005,0.4.12,C++
+Gobby,0x539 dev group,2005,0.4.12,C++,Free
+Gobby,0x539 dev group,2005,0.4.12,C++,Free,GPL
+Gobby,0x539 dev group,2005,0.4.12,C++,Free,GPL,Yes
+JED
+JED,John E. Davis
+JED,John E. Davis,1992
+JED,John E. Davis,1992,0.99-19
+JED,John E. Davis,1992,0.99-19,C
+JED,John E. Davis,1992,0.99-19,C,Free
+JED,John E. Davis,1992,0.99-19,C,Free,GPL
+JED,John E. Davis,1992,0.99-19,C,Free,GPL,Yes
+jEdit
+jEdit,Slava Pestov
+jEdit,Slava Pestov,1998 (?)
+jEdit,Slava Pestov,1998 (?),5.3.0
+jEdit,Slava Pestov,1998 (?),5.3.0,Java
+jEdit,Slava Pestov,1998 (?),5.3.0,Java,Free
+jEdit,Slava Pestov,1998 (?),5.3.0,Java,Free,GPL
+jEdit,Slava Pestov,1998 (?),5.3.0,Java,Free,GPL,Yes
+JOE
+JOE,Joseph Allen
+JOE,Joseph Allen,1988
+JOE,Joseph Allen,1988,4.1
+JOE,Joseph Allen,1988,4.1,C
+JOE,Joseph Allen,1988,4.1,C,Free
+JOE,Joseph Allen,1988,4.1,C,Free,GPL
+JOE,Joseph Allen,1988,4.1,C,Free,GPL,Yes
+JOVE
+JOVE,Johnathon Payne
+JOVE,Johnathon Payne,1983
+JOVE,Johnathon Payne,1983,4.16
+JOVE,Johnathon Payne,1983,4.16,C
+JOVE,Johnathon Payne,1983,4.16,C,Free
+JOVE,Johnathon Payne,1983,4.16,C,Free,GPL
+JOVE,Johnathon Payne,1983,4.16,C,Free,GPL,Yes
+Kate
+Kate,KDE Project
+Kate,KDE Project,2000-12
+Kate,KDE Project,2000-12,3.11.1
+Kate,KDE Project,2000-12,3.11.1,C++
+Kate,KDE Project,2000-12,3.11.1,C++,Free
+Kate,KDE Project,2000-12,3.11.1,C++,Free,GPL
+Kate,KDE Project,2000-12,3.11.1,C++,Free,GPL,Yes
+KEDIT
+KEDIT,"Mansfield Software Group, Inc."
+KEDIT,"Mansfield Software Group, Inc.",1983
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6,
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6,,$129
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6,,$129,Proprietary
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6,,$129,Proprietary,No
+Komodo Edit
+Komodo Edit,Activestate
+Komodo Edit,Activestate,open-sourced 2007
+Komodo Edit,Activestate,open-sourced 2007,9.3.2
+Komodo Edit,Activestate,open-sourced 2007,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby"
+Komodo Edit,Activestate,open-sourced 2007,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",Free
+Komodo Edit,Activestate,open-sourced 2007,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",Free,"MPL, GPL, LGPL"
+Komodo Edit,Activestate,open-sourced 2007,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",Free,"MPL, GPL, LGPL",Yes
+Komodo IDE
+Komodo IDE,Activestate
+Komodo IDE,Activestate,2001
+Komodo IDE,Activestate,2001,9.3.2
+Komodo IDE,Activestate,2001,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby"
+Komodo IDE,Activestate,2001,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",$295
+Komodo IDE,Activestate,2001,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",$295,Proprietary
+Komodo IDE,Activestate,2001,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",$295,Proprietary,No
+KWrite
+KWrite,KDE Project
+KWrite,KDE Project,2000
+KWrite,KDE Project,2000,4.11.1
+KWrite,KDE Project,2000,4.11.1,C++
+KWrite,KDE Project,2000,4.11.1,C++,Free
+KWrite,KDE Project,2000,4.11.1,C++,Free,GPL
+KWrite,KDE Project,2000,4.11.1,C++,Free,GPL,Yes
+LE
+LE,Alexander V. Lukyanov
+LE,Alexander V. Lukyanov,1997
+LE,Alexander V. Lukyanov,1997,1.14.5
+LE,Alexander V. Lukyanov,1997,1.14.5,C++
+LE,Alexander V. Lukyanov,1997,1.14.5,C++,Free
+LE,Alexander V. Lukyanov,1997,1.14.5,C++,Free,GPL
+LE,Alexander V. Lukyanov,1997,1.14.5,C++,Free,GPL,Yes
+Leo
+Leo,Edward K. Ream
+Leo,Edward K. Ream,1996
+Leo,Edward K. Ream,1996,4.11
+Leo,Edward K. Ream,1996,4.11,Python
+Leo,Edward K. Ream,1996,4.11,Python,Free
+Leo,Edward K. Ream,1996,4.11,Python,Free,MIT
+Leo,Edward K. Ream,1996,4.11,Python,Free,MIT,Yes
+Light Table
+Light Table,Chris Granger
+Light Table,Chris Granger,2012
+Light Table,Chris Granger,2012,0.7
+Light Table,Chris Granger,2012,0.7,ClojureScript
+Light Table,Chris Granger,2012,0.7,ClojureScript,Free
+Light Table,Chris Granger,2012,0.7,ClojureScript,Free,MIT
+Light Table,Chris Granger,2012,0.7,ClojureScript,Free,MIT,Yes
+Metapad
+Metapad,Alexander Davidson
+Metapad,Alexander Davidson,1999
+Metapad,Alexander Davidson,1999,3.6
+Metapad,Alexander Davidson,1999,3.6,C
+Metapad,Alexander Davidson,1999,3.6,C,Free
+Metapad,Alexander Davidson,1999,3.6,C,Free,GPL
+Metapad,Alexander Davidson,1999,3.6,C,Free,GPL,Yes
+mg
+mg,Dave Conroy
+mg,Dave Conroy,1986
+mg,Dave Conroy,1986,current
+mg,Dave Conroy,1986,current,C
+mg,Dave Conroy,1986,current,C,Free
+mg,Dave Conroy,1986,current,C,Free,Public domain
+mg,Dave Conroy,1986,current,C,Free,Public domain,Yes
+MinEd
+MinEd,Thomas Wolff
+MinEd,Thomas Wolff,1992
+MinEd,Thomas Wolff,1992,2014.24
+MinEd,Thomas Wolff,1992,2014.24,C
+MinEd,Thomas Wolff,1992,2014.24,C,Free
+MinEd,Thomas Wolff,1992,2014.24,C,Free,GPL
+MinEd,Thomas Wolff,1992,2014.24,C,Free,GPL,Yes
+MS-DOS Editor
+MS-DOS Editor,Microsoft
+MS-DOS Editor,Microsoft,1991
+MS-DOS Editor,Microsoft,1991,2.0.026
+MS-DOS Editor,Microsoft,1991,2.0.026,
+MS-DOS Editor,Microsoft,1991,2.0.026,,"Bundled with MS-DOS, Microsoft Windows"
+MS-DOS Editor,Microsoft,1991,2.0.026,,"Bundled with MS-DOS, Microsoft Windows",Proprietary
+MS-DOS Editor,Microsoft,1991,2.0.026,,"Bundled with MS-DOS, Microsoft Windows",Proprietary,No
+Nano
+Nano,Chris Allegretta
+Nano,Chris Allegretta,1999
+Nano,Chris Allegretta,1999,2.6.3
+Nano,Chris Allegretta,1999,2.6.3,C
+Nano,Chris Allegretta,1999,2.6.3,C,Free
+Nano,Chris Allegretta,1999,2.6.3,C,Free,GPL
+Nano,Chris Allegretta,1999,2.6.3,C,Free,GPL,Yes
+ne
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti"
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6,C
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6,C,Free
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6,C,Free,GPL
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6,C,Free,GPL,Yes
+NEdit
+NEdit,Mark Edel
+NEdit,Mark Edel,1991
+NEdit,Mark Edel,1991,5.5
+NEdit,Mark Edel,1991,5.5,C
+NEdit,Mark Edel,1991,5.5,C,Free
+NEdit,Mark Edel,1991,5.5,C,Free,GPL
+NEdit,Mark Edel,1991,5.5,C,Free,GPL,Yes
+Notepad
+Notepad,Microsoft
+Notepad,Microsoft,1985
+Notepad,Microsoft,1985,6.0
+Notepad,Microsoft,1985,6.0,MASM (originally)
+Notepad,Microsoft,1985,6.0,MASM (originally),Bundled with Microsoft Windows
+Notepad,Microsoft,1985,6.0,MASM (originally),Bundled with Microsoft Windows,Proprietary
+Notepad,Microsoft,1985,6.0,MASM (originally),Bundled with Microsoft Windows,Proprietary,No
+Notepad++
+Notepad++,Don Ho
+Notepad++,Don Ho,2003-11-25
+Notepad++,Don Ho,2003-11-25,6.9.2
+Notepad++,Don Ho,2003-11-25,6.9.2,C++
+Notepad++,Don Ho,2003-11-25,6.9.2,C++,Free
+Notepad++,Don Ho,2003-11-25,6.9.2,C++,Free,GPL
+Notepad++,Don Ho,2003-11-25,6.9.2,C++,Free,GPL,Yes
+Notepad2
+Notepad2,Florian Balmer
+Notepad2,Florian Balmer,2004-04
+Notepad2,Florian Balmer,2004-04,4.2.25
+Notepad2,Florian Balmer,2004-04,4.2.25,C++
+Notepad2,Florian Balmer,2004-04,4.2.25,C++,Free
+Notepad2,Florian Balmer,2004-04,4.2.25,C++,Free,BSD
+Notepad2,Florian Balmer,2004-04,4.2.25,C++,Free,BSD,Yes
+NoteTab
+NoteTab,"Eric Fookes, Fookes Software"
+NoteTab,"Eric Fookes, Fookes Software",1995
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1,Object Pascal (Delphi)
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1,Object Pascal (Delphi),"Free, $10 Standard, $20 Pro"
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1,Object Pascal (Delphi),"Free, $10 Standard, $20 Pro",Proprietary
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1,Object Pascal (Delphi),"Free, $10 Standard, $20 Pro",Proprietary,No
+nvi
+nvi,Keith Bostic
+nvi,Keith Bostic,?
+nvi,Keith Bostic,?,1.79
+nvi,Keith Bostic,?,1.79,C
+nvi,Keith Bostic,?,1.79,C,Free
+nvi,Keith Bostic,?,1.79,C,Free,BSD
+nvi,Keith Bostic,?,1.79,C,Free,BSD,Yes
+Peppermint
+Peppermint,Ioannis Zafeiropoulos
+Peppermint,Ioannis Zafeiropoulos,2014
+Peppermint,Ioannis Zafeiropoulos,2014,1.4
+Peppermint,Ioannis Zafeiropoulos,2014,1.4,"Objective-C, JavaScript"
+Peppermint,Ioannis Zafeiropoulos,2014,1.4,"Objective-C, JavaScript",$14.99
+Peppermint,Ioannis Zafeiropoulos,2014,1.4,"Objective-C, JavaScript",$14.99,Proprietary
+Peppermint,Ioannis Zafeiropoulos,2014,1.4,"Objective-C, JavaScript",$14.99,Proprietary,No
+Pico
+Pico,University of Washington
+Pico,University of Washington,1992
+Pico,University of Washington,1992,4.64
+Pico,University of Washington,1992,4.64,C
+Pico,University of Washington,1992,4.64,C,Free
+Pico,University of Washington,1992,4.64,C,Free,AL2
+Pico,University of Washington,1992,4.64,C,Free,AL2,Yes
+PolyEdit
+PolyEdit,PolySoft Solutions
+PolyEdit,PolySoft Solutions,1998
+PolyEdit,PolySoft Solutions,1998,5.0 preview release
+PolyEdit,PolySoft Solutions,1998,5.0 preview release,
+PolyEdit,PolySoft Solutions,1998,5.0 preview release,,$27.95
+PolyEdit,PolySoft Solutions,1998,5.0 preview release,,$27.95,Shareware
+PolyEdit,PolySoft Solutions,1998,5.0 preview release,,$27.95,Shareware,No
+Programmer's Notepad
+Programmer's Notepad,Simon Steele
+Programmer's Notepad,Simon Steele,1998
+Programmer's Notepad,Simon Steele,1998,2.3
+Programmer's Notepad,Simon Steele,1998,2.3,C++
+Programmer's Notepad,Simon Steele,1998,2.3,C++,Free
+Programmer's Notepad,Simon Steele,1998,2.3,C++,Free,BSD
+Programmer's Notepad,Simon Steele,1998,2.3,C++,Free,BSD,Yes
+PSPad
+PSPad,Jan Fiala
+PSPad,Jan Fiala,2002
+PSPad,Jan Fiala,2002,4.6.1
+PSPad,Jan Fiala,2002,4.6.1,Object Pascal (Delphi)
+PSPad,Jan Fiala,2002,4.6.1,Object Pascal (Delphi),Free
+PSPad,Jan Fiala,2002,4.6.1,Object Pascal (Delphi),Free,Proprietary
+PSPad,Jan Fiala,2002,4.6.1,Object Pascal (Delphi),Free,Proprietary,No
+Q10
+Q10,Baara Estudio
+Q10,Baara Estudio,2007
+Q10,Baara Estudio,2007,1.2.21
+Q10,Baara Estudio,2007,1.2.21, ?
+Q10,Baara Estudio,2007,1.2.21, ?,Free
+Q10,Baara Estudio,2007,1.2.21, ?,Free,Proprietary
+Q10,Baara Estudio,2007,1.2.21, ?,Free,Proprietary,No
+RJ TextEd
+RJ TextEd,Rickard Johansson
+RJ TextEd,Rickard Johansson,2004
+RJ TextEd,Rickard Johansson,2004,8.42
+RJ TextEd,Rickard Johansson,2004,8.42,Object Pascal (Delphi)
+RJ TextEd,Rickard Johansson,2004,8.42,Object Pascal (Delphi),Free
+RJ TextEd,Rickard Johansson,2004,8.42,Object Pascal (Delphi),Free,Proprietary
+RJ TextEd,Rickard Johansson,2004,8.42,Object Pascal (Delphi),Free,Proprietary,No
+RText
+RText,Fifesoft
+RText,Fifesoft,2003
+RText,Fifesoft,2003,1.1.0
+RText,Fifesoft,2003,1.1.0,Java
+RText,Fifesoft,2003,1.1.0,Java,Free
+RText,Fifesoft,2003,1.1.0,Java,Free,BSD
+RText,Fifesoft,2003,1.1.0,Java,Free,BSD,Yes
+Sam
+Sam,Rob Pike
+Sam,Rob Pike,early 1980s
+Sam,Rob Pike,early 1980s,stable
+Sam,Rob Pike,early 1980s,stable,C
+Sam,Rob Pike,early 1980s,stable,C,Free
+Sam,Rob Pike,early 1980s,stable,C,Free,LPL (OSI approved)
+Sam,Rob Pike,early 1980s,stable,C,Free,LPL (OSI approved),Yes
+SciTE
+SciTE,Neil Hodgson
+SciTE,Neil Hodgson,1999
+SciTE,Neil Hodgson,1999,3.6.4
+SciTE,Neil Hodgson,1999,3.6.4,C++
+SciTE,Neil Hodgson,1999,3.6.4,C++,$41.99 for OS X. free for others
+SciTE,Neil Hodgson,1999,3.6.4,C++,$41.99 for OS X. free for others,HPND
+SciTE,Neil Hodgson,1999,3.6.4,C++,$41.99 for OS X. free for others,HPND,Yes
+SlickEdit
+SlickEdit,"SlickEdit, Inc."
+SlickEdit,"SlickEdit, Inc.",1988
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0,"C, Slick-C"
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0,"C, Slick-C",$299
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0,"C, Slick-C",$299,Proprietary
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0,"C, Slick-C",$299,Proprietary,No
+Smultron
+Smultron,Peter Borg
+Smultron,Peter Borg,2004
+Smultron,Peter Borg,2004,3.8
+Smultron,Peter Borg,2004,3.8,Objective-C
+Smultron,Peter Borg,2004,3.8,Objective-C,$5
+Smultron,Peter Borg,2004,3.8,Objective-C,$5,Proprietary
+Smultron,Peter Borg,2004,3.8,Objective-C,$5,Proprietary,No
+Source Insight
+Source Insight,Source Dynamics
+Source Insight,Source Dynamics, ?
+Source Insight,Source Dynamics, ?,3.50.0072
+Source Insight,Source Dynamics, ?,3.50.0072,Source Insight macro language
+Source Insight,Source Dynamics, ?,3.50.0072,Source Insight macro language,$239-$255
+Source Insight,Source Dynamics, ?,3.50.0072,Source Insight macro language,$239-$255,Proprietary
+Source Insight,Source Dynamics, ?,3.50.0072,Source Insight macro language,$239-$255,Proprietary,No
+SubEthaEdit
+SubEthaEdit,TheCodingMonkeys
+SubEthaEdit,TheCodingMonkeys,2003
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294)
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294),
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294),,$35 commercial use
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294),,$35 commercial use,Proprietary
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294),,$35 commercial use,Proprietary,No
+Sublime Text
+Sublime Text,Jon Skinner
+Sublime Text,Jon Skinner,2008
+Sublime Text,Jon Skinner,2008,2.0.2
+Sublime Text,Jon Skinner,2008,2.0.2,"C++, Objective-C++ (OS X version), Python"
+Sublime Text,Jon Skinner,2008,2.0.2,"C++, Objective-C++ (OS X version), Python",$70
+Sublime Text,Jon Skinner,2008,2.0.2,"C++, Objective-C++ (OS X version), Python",$70,Proprietary
+Sublime Text,Jon Skinner,2008,2.0.2,"C++, Objective-C++ (OS X version), Python",$70,Proprietary,No
+TED Notepad
+TED Notepad,Juraj Simlovic
+TED Notepad,Juraj Simlovic,2001
+TED Notepad,Juraj Simlovic,2001,5.4.2
+TED Notepad,Juraj Simlovic,2001,5.4.2,C
+TED Notepad,Juraj Simlovic,2001,5.4.2,C,Free
+TED Notepad,Juraj Simlovic,2001,5.4.2,C,Free,Freeware
+TED Notepad,Juraj Simlovic,2001,5.4.2,C,Free,Freeware,No
+Textadept
+Textadept,Mitchell
+Textadept,Mitchell,2007
+Textadept,Mitchell,2007,7.5
+Textadept,Mitchell,2007,7.5,"C, Lua"
+Textadept,Mitchell,2007,7.5,"C, Lua",Free
+Textadept,Mitchell,2007,7.5,"C, Lua",Free,MIT
+Textadept,Mitchell,2007,7.5,"C, Lua",Free,MIT,Yes
+TextEdit
+TextEdit,Apple Inc.
+TextEdit,Apple Inc.,2001
+TextEdit,Apple Inc.,2001,1.11
+TextEdit,Apple Inc.,2001,1.11,
+TextEdit,Apple Inc.,2001,1.11,,Free (also bundled with OS X)
+TextEdit,Apple Inc.,2001,1.11,,Free (also bundled with OS X),New BSD
+TextEdit,Apple Inc.,2001,1.11,,Free (also bundled with OS X),New BSD,Yes
+TextMate
+TextMate,MacroMates
+TextMate,MacroMates,2004-10-10
+TextMate,MacroMates,2004-10-10,1.5.11
+TextMate,MacroMates,2004-10-10,1.5.11,Objective-C++
+TextMate,MacroMates,2004-10-10,1.5.11,Objective-C++,$53 (€39)
+TextMate,MacroMates,2004-10-10,1.5.11,Objective-C++,$53 (€39),"Proprietary, with MIT components. Version 2 released under GPLv3"
+TextMate,MacroMates,2004-10-10,1.5.11,Objective-C++,$53 (€39),"Proprietary, with MIT components. Version 2 released under GPLv3",Yes (from version 2)
+TextPad
+TextPad,Helios Software Solutions
+TextPad,Helios Software Solutions,1992
+TextPad,Helios Software Solutions,1992,8.0.1
+TextPad,Helios Software Solutions,1992,8.0.1,
+TextPad,Helios Software Solutions,1992,8.0.1,,$30.00 (£16.50)
+TextPad,Helios Software Solutions,1992,8.0.1,,$30.00 (£16.50),Shareware
+TextPad,Helios Software Solutions,1992,8.0.1,,$30.00 (£16.50),Shareware,No
+TextWrangler
+TextWrangler,Bare Bones Software
+TextWrangler,Bare Bones Software,2003
+TextWrangler,Bare Bones Software,2003,4.5.5
+TextWrangler,Bare Bones Software,2003,4.5.5,
+TextWrangler,Bare Bones Software,2003,4.5.5,,Free
+TextWrangler,Bare Bones Software,2003,4.5.5,,Free,Proprietary
+TextWrangler,Bare Bones Software,2003,4.5.5,,Free,Proprietary,No
+The SemWare Editor
+The SemWare Editor,Sammy Mitchell
+The SemWare Editor,Sammy Mitchell,1985-11
+The SemWare Editor,Sammy Mitchell,1985-11,4.4
+The SemWare Editor,Sammy Mitchell,1985-11,4.4,"C, SAL"
+The SemWare Editor,Sammy Mitchell,1985-11,4.4,"C, SAL",$99
+The SemWare Editor,Sammy Mitchell,1985-11,4.4,"C, SAL",$99,Proprietary
+The SemWare Editor,Sammy Mitchell,1985-11,4.4,"C, SAL",$99,Proprietary,No
+Tincta
+Tincta,Mr. Fridge Software
+Tincta,Mr. Fridge Software,2011
+Tincta,Mr. Fridge Software,2011,2.0
+Tincta,Mr. Fridge Software,2011,2.0,Objective-C
+Tincta,Mr. Fridge Software,2011,2.0,Objective-C,Free
+Tincta,Mr. Fridge Software,2011,2.0,Objective-C,Free,Proprietary
+Tincta,Mr. Fridge Software,2011,2.0,Objective-C,Free,Proprietary,No
+UltraEdit
+UltraEdit,IDM Computer Solutions
+UltraEdit,IDM Computer Solutions,1994
+UltraEdit,IDM Computer Solutions,1994,23.00
+UltraEdit,IDM Computer Solutions,1994,23.00,C++
+UltraEdit,IDM Computer Solutions,1994,23.00,C++,$79.95
+UltraEdit,IDM Computer Solutions,1994,23.00,C++,$79.95,Proprietary
+UltraEdit,IDM Computer Solutions,1994,23.00,C++,$79.95,Proprietary,No
+VEDIT
+VEDIT,"Ted Green, Greenview Data"
+VEDIT,"Ted Green, Greenview Data",1980
+VEDIT,"Ted Green, Greenview Data",1980,6.21
+VEDIT,"Ted Green, Greenview Data",1980,6.21,"Assembly, C"
+VEDIT,"Ted Green, Greenview Data",1980,6.21,"Assembly, C","$89 standard, $239 Pro64"
+VEDIT,"Ted Green, Greenview Data",1980,6.21,"Assembly, C","$89 standard, $239 Pro64",Proprietary
+VEDIT,"Ted Green, Greenview Data",1980,6.21,"Assembly, C","$89 standard, $239 Pro64",Proprietary,No
+vi
+vi,Bill Joy
+vi,Bill Joy,1976
+vi,Bill Joy,1976,3.7
+vi,Bill Joy,1976,3.7,C
+vi,Bill Joy,1976,3.7,C,Free
+vi,Bill Joy,1976,3.7,C,Free,BSD or CDDL
+vi,Bill Joy,1976,3.7,C,Free,BSD or CDDL,Yes
+Vim
+Vim,Bram Moolenaar
+Vim,Bram Moolenaar,1991
+Vim,Bram Moolenaar,1991,7.4
+Vim,Bram Moolenaar,1991,7.4,"C, Vim script"
+Vim,Bram Moolenaar,1991,7.4,"C, Vim script",Free
+Vim,Bram Moolenaar,1991,7.4,"C, Vim script",Free,GPL compatible
+Vim,Bram Moolenaar,1991,7.4,"C, Vim script",Free,GPL compatible,Yes
+Visual Studio Code
+Visual Studio Code,Microsoft
+Visual Studio Code,Microsoft,2015
+Visual Studio Code,Microsoft,2015,1.2.1
+Visual Studio Code,Microsoft,2015,1.2.1,"JavaScript, C#, C++, JSON, HTML, PHP, Python, Markdown, TypeScript, CSS"
+Visual Studio Code,Microsoft,2015,1.2.1,"JavaScript, C#, C++, JSON, HTML, PHP, Python, Markdown, TypeScript, CSS",Free
+Visual Studio Code,Microsoft,2015,1.2.1,"JavaScript, C#, C++, JSON, HTML, PHP, Python, Markdown, TypeScript, CSS",Free,MIT
+Visual Studio Code,Microsoft,2015,1.2.1,"JavaScript, C#, C++, JSON, HTML, PHP, Python, Markdown, TypeScript, CSS",Free,MIT,Yes
+Xeditor
+Xeditor,appsoft Technologies GmbH
+Xeditor,appsoft Technologies GmbH,2013
+Xeditor,appsoft Technologies GmbH,2013,2
+Xeditor,appsoft Technologies GmbH,2013,2,"Webbased, JavaScript"
+Xeditor,appsoft Technologies GmbH,2013,2,"Webbased, JavaScript",starts at $3250
+Xeditor,appsoft Technologies GmbH,2013,2,"Webbased, JavaScript",starts at $3250,Proprietary
+Xeditor,appsoft Technologies GmbH,2013,2,"Webbased, JavaScript",starts at $3250,Proprietary,No
+XEmacs
+XEmacs,Lucid Inc.
+XEmacs,Lucid Inc.,1991
+XEmacs,Lucid Inc.,1991,21.4.22
+XEmacs,Lucid Inc.,1991,21.4.22,"C, Emacs Lisp"
+XEmacs,Lucid Inc.,1991,21.4.22,"C, Emacs Lisp",Free
+XEmacs,Lucid Inc.,1991,21.4.22,"C, Emacs Lisp",Free,GPL
+XEmacs,Lucid Inc.,1991,21.4.22,"C, Emacs Lisp",Free,GPL,Yes
+Yi
+Yi,Don Stewart
+Yi,Don Stewart,2005
+Yi,Don Stewart,2005,0.8.1
+Yi,Don Stewart,2005,0.8.1,Haskell
+Yi,Don Stewart,2005,0.8.1,Haskell,Free
+Yi,Don Stewart,2005,0.8.1,Haskell,Free,GPL
+Yi,Don Stewart,2005,0.8.1,Haskell,Free,GPL,Yes
