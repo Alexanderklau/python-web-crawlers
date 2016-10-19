@@ -4,4 +4,5 @@ import datetime
 import re
 
 
-class Baidu_spider()
+class Baidu_spider():
+    pass
