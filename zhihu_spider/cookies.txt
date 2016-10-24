@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zhihu.com	TRUE	/	FALSE	1479869453	cap_id	"MjMzYmU2MzNiM2NmNGEyOGEzOGFmNDJiZGEyMGVmZDg=|1477277453|38f79989a0785ad102d2af999b1e71566cd1eb70"
+.zhihu.com	TRUE	/	FALSE	1479869453	l_cap_id	"YTViNjA0M2YxZjk1NDViNDgzMTJhNWMzYzRlOGY4ODc=|1477277453|e3b8e6638f88fdf044326c2e0ede808d5d400f20"
+.zhihu.com	TRUE	/	FALSE		n_c	1
+.zhihu.com	TRUE	/	FALSE	1571885453	q_c1	75ce08b2a6db467d93a94d315f4590bf|1477277453000|1477277453000
