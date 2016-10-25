@@ -57,7 +57,7 @@ class ZhihuLogin(object):
         opener = urllib2.build_opener(handler)
         return opener
 
-    def get_data(self):
+    def get_data(self):#检查是否登陆
 
         url_judge = "https://www.zhihu.com/settings/profile"
         isLogin = True
