@@ -1,0 +1,1804 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+    <title>军事网_军事新闻_中国军事_世界军事_军事新闻尽在军事前沿</title>
+	<link rel="shortcut icon" href="http://pic.qianyan001.com/images_2014/favicon.ico" />
+	<link rel="bookmark" href="http://pic.qianyan001.com/images_2014/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="http://pic.qianyan001.com/images_2014/favicon.ico" type="image/x-icon" />
+	<meta name="keywords" content="军事网,中国军事,世界军事,军事新闻" />
+	<meta name="description" content="军事前沿是中国最权威的军事门户网站之一,提供最新中国军事新闻，世界军事新闻还有网友对中国军事的最新爆料。">
+    <link rel="stylesheet" href="http://bbs.qianyan001.com/qianyan_2015/style/base.css" type="text/css"/>
+	<link rel="stylesheet" href="http://bbs.qianyan001.com/qianyan_2015/style/top2015.css" type="text/css"/>
+    <script type="text/javascript" src="http://bbs.qianyan001.com/qianyan_2015/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="http://bbs.qianyan001.com/qianyan_2015/js/lianghui_waidi.js"></script>
+	<script type="text/javascript" src="http://bbs.qianyan001.com/qianyan_2015/js/jump.js"></script>
+	 <script type="text/javascript" src="http://bbs.qianyan001.com/qianyan_2015/js/search_2015.js"></script>
+	<script type="text/javascript">
+//设为首页
+var isIE=(document.all&&document.getElementById&&!window.opera)?true:false;
+var isMozilla=(!document.all&&document.getElementById&&!window.opera)?true:false;
+var isOpera=(window.opera)?true:false;
+var seturl='url(#default#homepage)';
+var weburl='http://www.qianyan001.com';
+var webname='军事前沿'; 
+function setHomePage(obj) {if(isMozilla){try {netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");}catch (e){
+try{obj.sethomepage('http://www.qianyan001.com');}catch(f){if(f!='TypeError: obj.sethomepage is not a function'){alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将[signed.applets.codebase_principal_support]设置为'true'");return true;}}}
+var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);prefs.setCharPref('browser.startup.homepage',weburl);}
+if(isIE){obj.style.behavior=seturl;obj.setHomePage(weburl);}}
+function share(u,d){
+var title = "";
+var desc = "";if(d!=''){if(d=='1'){window.open(u+encodeURIComponent(location.href)+'&title='+title+'&desc='+desc);}else{window.open(u+encodeURIComponent(location.href)+'&title='+title+'&description='+desc);}}else{window.open(u+encodeURIComponent(location.href)+'&title='+title+desc);}}
+</script>
+</head>
+
+<body>
+<div class="t">
+    <div class="header pr">
+        <div class="header_left">
+			<a target="_blank" href="http://m.qianyan001.com/" target="_blank">手机军事前沿</a> <em>| </em>
+			<a target="_blank" href="http://www.qianyan001.com/qianyan001.url" target="_blank">一键访问</a> <em>| </em>
+			<a target="_blank" href="javascript:void(0)" target="_self" onmouseover="$(this).next('.qrCode').show()" style="position: relative" onmouseout="$(this).next('.qrCode').hide()">微信订阅</a>
+			<div class="qrCode" style="color: rgb(102, 102, 102); border: 1px solid rgb(221, 221, 221); padding: 13px 13px 0px; position:absolute; left: 125px; text-align: center; top: 37px; width: 145px; box-shadow: rgb(221, 221, 221) 0px 0px 3px; display: none; background: rgb(255, 255, 255);">
+                <i style="display:block;width:0;height:0;overflow:hidden;position:absolute;left:45%;top:-5px;border-style:solid;border-width:0 5px 5px;border-color:#fff transparent #fff"></i>
+				<img src="http://bbs.qianyan001.com/qianyan_2015/images/qianyan.jpg">微信扫一扫,马上有惊喜
+            </div>
+        </div>
+		<!--<iframe id='mojiFrame' scrolling="no" frameborder="0" style="position:absolute;left:250px;top:0; height:36px;" width="475" height="295" src="http://tianqi.moji.com/show/qianyan"></iframe>
+	<script>
+			var mojiFrame = document.getElementById('mojiFrame');
+			mojiFrame.addEventListener('mouseover',function(){
+				mojiFrame.style.height='295px';
+			});
+			
+			mojiFrame.addEventListener('mouseout',function(){
+				mojiFrame.style.height='36px';
+			});
+		
+		</script>--> 
+        <div class="header_right">
+            <p>
+				
+				<a target="_blank" target="_self" title="军事前沿" target="_self" onclick="javascript:try{window.external.AddFavorite(weburl,webname)}catch (e){alert('加入收藏失败，请使用Ctrl+D进行添加');};return false;" rel="sidebar" title="军事前沿" href="http://www.qianyan001.com">加入收藏</a><em>| </em> 
+				<a target="_blank" href="http://t.qq.com/junshiqianyan?topicid=14086450369574625442" target="_blank">关注我们</a> <em>| </em> 
+				<a target="_blank"  href="http://api.qianyan001.com/yijian/" title="军事前沿" rel="sidebar" target="_blank">意见反馈</a><em>| </em> 分享到： 
+			</p>
+            <span> <a target="_blank" href="javascript:" onclick="share('http://service.weibo.com/share/share.php?url=','')" target="_self"><img src="http://bbs.qianyan001.com/qianyan_2015/images/qianyan_03.jpg" width="22" height="25"/></a> </span>
+			<span> <a target="_blank" href="javascript:" onclick="share('http://share.v.t.qq.com/index.php?c=share&a=index&url=','')" target="_self"><img src="http://bbs.qianyan001.com/qianyan_2015/images/qianyan_05.jpg" width="22" height="25"/></a> </span>
+			<span> <a target="_blank" href="javascript:" onclick="share('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=','1')" target="_self"><img src="http://bbs.qianyan001.com/qianyan_2015/images/qianyan_07.jpg" width="22" height="25"/></a> </span>
+			<span> <a target="_blank" href="javascript:"  onclick="share('http://www.renren.com/?origURL=','2')" target="_self"><img src="http://bbs.qianyan001.com/qianyan_2015/images/qianyan_09.jpg" width="22" height="25"/></a> </span>
+		</div>
+    </div>
+</div>
+<div class="top">
+    <div class="logo">
+		<a target="_blank" href="http://www.qianyan001.com" target="_blank"><img src="http://bbs.qianyan001.com/qianyan_2015/images/logo.jpg" width="192" height="58" class="logoa"/></a> 
+		<!---->
+    </div>
+	
+	
+    <div class="search">
+        <form target="_blank" action="http://s.qianyan001.com/cse/search" class="searchform"  onsubmit="return dosearch()">
+		<input name="s" type="hidden" value="2816987931130661724">
+            <input type="text" class="search_input" name="q" onfocus="if(this.value==''){this.value='';this.style.color='#666'}" onblur="if(this.value==''){this.value='';this.style.color='#666'}">
+            <input name="button" type="submit" class="search_botton" value="搜索">
+        </form>
+    </div>
+</div>
+<div id="mainbav">
+    <div class="mier_nav">
+        <div class="menu">
+            <ul>
+                <li><b><a target="_blank" href="http://www.qianyan001.com" target="_blank">首页</a> </b> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_213_1.html" target="_blank">今日要闻</a> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_245_1.html" target="_blank">军事热帖</a>
+                </li>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/news/list_254_1.html" target="_blank">军事</a> </b> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_253_1.html" target="_blank">军事精华</a> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_257_1.html" target="_blank">网上谈兵</a>
+                </li>
+            </ul>
+            <span><img src="http://bbs.qianyan001.com/qianyan_2015/images/li.jpg" width="1" height="47"></span>
+            <ul>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/news/list_246_1.html" target="_blank">图库</a></b> <a target="_blank" href="http://bbs.qianyan001.com/news/list_248_1.html" target="_blank">军事贴图</a> <a target="_blank" href="http://bbs.qianyan001.com/news/list_251_1.html" target="_blank">图片笑话</a>
+                </li>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/news/list_234_1.html" target="_blank">环球</a> </b> <a target="_blank" href="http://bbs.qianyan001.com/news/list_238_1.html" target="_blank">环球精粹</a> <a target="_blank" href="http://bbs.qianyan001.com/news/list_237_1.html" target="_blank">海外奇闻</a>
+                </li>
+            </ul>
+            <span><img src="http://bbs.qianyan001.com/qianyan_2015/images/li.jpg" width="1" height="47"></span>
+            <ul>
+                <li><b><a >独家</a></b> <a target="_blank" href="http://i.qianyan001.com/tbls" target="_blank">谈兵论势</a> <a target="_blank" href="http://i.qianyan001.com/jmkz" target="_blank">军迷客栈</a>
+                </li>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/news/list_241_1.html" target="_blank">历史</a> </b> <a target="_blank" href="http://bbs.qianyan001.com/news/list_244_1.html" target="_blank">历史精粹</a> <a target="_blank" href="http://bbs.qianyan001.com/news/list_240_1.html" target="_blank">考古发现</a>
+                </li>
+            </ul>
+            <span><img src="http://bbs.qianyan001.com/qianyan_2015/images/li.jpg" width="1" height="47"></span>
+            <ul>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_213_1.html" target="_blank">聚焦</a></b> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_213_1.html" target="_blank">今日焦点</a> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_245_1.html" target="_blank">热门资讯</a>
+                </li>
+                <li><b><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_245_1.html" target="_blank">热点</a> </b> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_255_1.html" target="_blank">军事热点</a> <a target="_blank" href="http://bbs.qianyan001.com/bbs/list_258_1.html" target="_blank">军力解读</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="top_ad" style="padding:2px 0px 4px;">
+
+       <!-- 广告位：2015前沿首页顶部banner（新版） -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2331203',
+        container: s,
+        size: '1003,90',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+
+</div>
+<div style="width:1003px;margin:0 auto">
+<!-- 广告位：2015前沿首页banner1下方文字链（新版） -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2320747',
+        container: s,
+        size: '1,1',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+</div>
+<div class="wrap">
+    <!------左边部分结束------->
+    <div class="left">
+        <!-----------图片切换  begin----------->
+        <div id="focusPic" class="focusPic">
+            <div style="overflow: hidden;" class="slide">
+                <div style="width: 100%; overflow: hidden; position: relative;" class="contentWrap">
+                    <ul>
+					<li style="display:block;">
+                            <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240713.html" target="_blank"><img
+                                    src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G414400-L.jpg" width="347" height="256"/></a>
+                            <a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240713.html" target="_blank">杜特尔特带来坏消息 安倍捅了马蜂窝</a>
+                        </li>
+					<li>
+							<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240712.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G410220-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240712.html" target="_blank">深扒被封杀的绝美艳星 她竟排第二</a>
+                        </li>
+                   <!--<li>
+							<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240711.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G405100-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240711.html" target="_blank">绝世高僧当众下油锅 全世界啧啧称奇</a>
+                        </li>-->
+					<li>
+							<a target="_blank" href="http://www.micai.com/qydl/52198.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161025/12-1610251SK80-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://www.micai.com/qydl/52198.html" target="_blank">城里人真会玩 让人哭笑不得的第一次</a>
+                        </li>
+                   <li>
+							<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240710.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G359130-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240710.html" target="_blank">明星野战被拍全程 车内激战数小时</a>
+                        </li>
+                    <li>
+							<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240709.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G354090-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240709.html" target="_blank">055核心设备曝光 最强技术震撼美俄</a>
+                        </li>
+                    <li>
+							<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240707.html" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G34S50-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://bbs.qianyan001.com/bbs/201610/240707.html" target="_blank">安理会投票现场离奇一幕 中国真霸气</a>
+                        </li>
+                    <li>
+							<a target="_blank" href="http://shop.yaosai.com/article/201606/996.html?qy" target="_blank">
+								<img src="http://pic.qianyan001.com/uploads/allimg/160623/43-1606231U2050-L.jpg" width="347" height="256"/>
+							</a>
+							<a target="_blank" class="tit" href="http://shop.yaosai.com/article/201606/996.html?qy" target="_blank">开车知道这事 车祸发生率直接降低70%</a>
+                        </li>
+                    
+                        <li>
+							<!-- 广告位：2015前沿首页焦点图八（新版） -->
+							<script>
+							(function() {
+								var s = "_" + Math.random().toString(36).slice(2);
+								document.write('<div id="' + s + '"></div>');
+								(window.slotbydup=window.slotbydup || []).push({
+									id: '2330484',
+									container: s,
+									size: '1,1',
+									display: 'inlay-fix'
+								});
+							})();
+							</script>
+							<script src="http://dup.baidustatic.com/js/os.js"></script>
+                        </li>
+					
+                        <span style="left: -9999px; top: -9999px; width: 1px; height: 1px; overflow: hidden; position: absolute;"><img
+                                src="../bbs.qianyan001.com/images_2014/dot.gif"/></span>
+                    </ul>
+                </div>
+            </div>
+            <div class="info">
+                <div class="title" id="focus_title"></div>
+                <ul id="focusPic_control" class="control">
+                    <li class="current"><a target="_blank">1</a></li>
+                    <li><a target="_blank">2</a></li>
+                    <li><a target="_blank">3</a></li>
+                    <li><a target="_blank">4</a></li>
+                    <li><a target="_blank">5</a></li>
+                    <li><a target="_blank">6</a></li>
+                    <li><a target="_blank">7</a></li>
+                    <li class="end"><a target="_blank">8</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-----------图片切换  end----------->
+        <div style="display:none">
+            <script language="JavaScript" type="text/javascript" src="http://bbs.qianyan001.com/qianyan_2015/js/picfocus.js"></script>
+            <script language="JavaScript">runfocus();</script>
+        </div>
+        <div class="jiaodian">
+            <ul>
+			<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240348.html">美对台军售 中国美女记者当面狠抽其脸</a></li>
+			<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240382.html">中国下杀手 两重拳打韩国生不如死</a></li>
+            </ul>
+        </div>
+        <!---the 米尔热贴 start---->
+        <div class="news">
+            <div class="news_tit">
+                <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_245_1.html" target="_blank">热门资讯</a></div>
+            </div>
+			<div class="media_wrap bottom25">
+                <h4 class="title_l"><a target="_blank" href="http://forum.miercn.com/huanqiu/thread_746362_1.html">农村小伙竟只靠分享文章买车买房</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://forum.miercn.com/huanqiu/thread_746362_1.html"><img src="http://pic.qianyan001.com/uploads/allimg/160627/12-16062GQI70-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://forum.miercn.com/huanqiu/thread_746362_1.html">2016年已经快过半，你对现在的成就和收入是否满意？是否想过怎样让自己财富倍...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+			<div class="media_wrap">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240369.html">日迎合国内右翼势力 中日埋下隐患</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240369.html"><img src="http://pic.qianyan001.com/uploads/allimg/160831/127-160S11403200-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240369.html">据港媒报道，尽管日本2017年防务预算比2016年高出2.3%，日本拓殖大学安全事务...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="news_nr">
+                <ul>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240091.html" target="_blank">中国出奇招：日本或去失一大片领土</a></li>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/227906.html" target="_blank">震撼！歼20现身世界海拔最高机场</a></li>
+                <li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240095.html" target="_blank">日防相要碰中国南海红线 北京反击</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!---the 米尔热贴 end---->
+        <div class="minright">
+            <div class="news_tit">
+                <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_213_1.html" target="_blank">军事热点</a></div>
+            </div>
+            <ul class="yvideo">
+			
+			<li class="last"><a target="_blank" href="http://tui.hczysw.cn/weixin/detail/9074428_171.html" target="_blank" class="lip"> <img src="http://pic.qianyan001.com/uploads/allimg/160616/10-1606161346030-L.jpg" alt="刘亦菲是变性人？罕见证据曝光">
+
+                    <p>刘亦菲是变性人？罕见证据曝光</p>
+                </a></li>
+			<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240443.html" target="_blank" class="lip"> <img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G550500-L.jpg" alt="他没有双臂 却打破吉尼斯射箭记录">
+
+                    <p>他没有双臂 却打破吉尼斯射箭记录</p>
+                </a></li>
+			<li class="last"><a target="_blank" href="http://www.micai.com/qydl/52196.html" target="_blank" class="lip"> <img src="http://pic.qianyan001.com/uploads/allimg/161025/12-1610251S5240-L.jpg" alt="比黄金还贵的13种神奇物质 看你知道几">
+
+                    <p>比黄金还贵的13种神奇物质 看你知道几</p>
+                </a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!------左边部分结束------->
+    <!---the middle start---->
+    <div class="middle">
+        <div class="news">
+            <div class="Tab">
+			<h3 class="yaoweih3"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240717.html" class="red">杜特尔特访日遭羞辱 美日绝望中国窃喜</a></h3>
+
+                <div class="yaowei">
+			<a target="_blank" href="http://bbs.qianyan001.com/news/201610/240392.html">彩虹无人机组团亮相航展</a>
+			<a target="_blank" href="http://bbs.qianyan001.com/news/201610/240129.html" class="two">数十架飞豹演练轰炸岛礁</a>
+                </div>
+                <div class="clear"></div>
+				
+				
+			<h3 class="yaoweih3"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240715.html" class="red">北京正式下令限韩 外交部回应振奋人心</a></h3>
+
+                <div class="yaowei">
+			<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240344.html">美军闯南海来当中国的陪练</a>
+			<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240077.html" class="two">日本看透菲总统为何先访华</a>
+                </div>
+                <div class="clear"></div>
+				
+			
+			<h3 class="yaoweih3"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240294.html" class="red">不上安倍当 菲总统访日一耳光打蒙美国</a></h3>
+                <div class="yaowei">
+			<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240346.html">中国首次设立慰安妇雕像</a>
+			<a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240081.html" class="two">杜特尔特访日给安倍上堂课</a>
+                </div>
+                <div class="clear"></div>
+				
+				
+			<h3 class="yaoweih3"><a target="_blank" href="http://www.micai.com/51dl/50123.html" class="red">脱下裙子后的日本女人 让世界男人脸红</a></h3>
+
+                <div class="yaowei">
+			<a target="_blank" href="http://bbs.qianyan001.com/news/201610/240393.html">男子发现2.5亿年前山洞</a>
+			<a target="_blank" href="http://bbs.qianyan001.com/news/201610/240131.html" class="two">三天挖出巨型蚁穴活捉蚁后</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="retie">
+                <div class="news_tit">
+                    <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_212_1.html" target="_blank" style="border:0;">今日热帖</a></div>
+                    <div class="tit_dian">
+						<a href="javascript:void(0)" class="hover"></a>
+						<a href="javascript:void(0)"></a>
+						<a  href="javascript:void(0)"></a>
+					</div>
+                </div>
+                <div class="news qiwei" id="tab_01" style="display:block;">
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240465.html" target="_blank">山东出土千年古墓 专家当场吓蒙了</a></em></li>
+						<li><a target="_blank" href="http://tui.hczysw.cn/weixin/detail/8048612_171.html" target="_blank">中越战争惊人秘密：中国军队打死不进河内内幕</a></li>
+						<li><a target="_blank" href="http://www.micai.com/51dl/50121.html" target="_blank">童年时期的十大阴影 看看你最害怕哪个</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240333.html" target="_blank">南海风云未停！北京出一奇招痛击美国软肋</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240334.html" target="_blank">美国真是疯了！为了抵御歼-20竟研制这东西</a></li>
+						<!--<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240387.html" target="_blank">菲杜特尔特访日态度大变 却受到这样的待遇</a></li>-->
+						<!-- 广告位：2015前沿新版首页今日热帖文字链1 -->
+
+							<script>
+							(function() {
+								var s = "_" + Math.random().toString(36).slice(2);
+								document.write('<div id="' + s + '"></div>');
+								(window.slotbydup=window.slotbydup || []).push({
+									id: '2580700',
+									container: s,
+									size: '1,1',
+									display: 'inlay-fix'
+								});
+							})();
+							</script>
+
+
+							<script src="http://dup.baidustatic.com/js/os.js"></script> 
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240331.html" target="_blank">朴槿惠又走出极危险一步 中国真要小心了！</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://www.micai.com/qydl/50381.html" target="_blank">城里人真会玩！13个让人哭笑不得的第一次</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240338.html" target="_blank">杜特尔特够阴险 竟挑衅美国捎带警告中国人</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240389.html" target="_blank">反击美国 中国史上最大收购竟买下半个英国</a></li>
+						<li><a target="_blank" href="http://forum.miercn.com/huanqiu/thread_747277_1.html" target="_blank">我是如何通过简单的分享文章就月入八千</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240335.html" target="_blank">中国空军歼11移交友邻部队 或即将接装苏35</a></li>
+						<!--<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240384.html" target="_blank">美国或已被操控 特朗普被指是俄罗斯间谍</a></li>-->
+						<!-- 广告位：2015前沿新版首页今日热帖文字链2 -->
+
+						<script>
+						(function() {
+							var s = "_" + Math.random().toString(36).slice(2);
+							document.write('<div id="' + s + '"></div>');
+							(window.slotbydup=window.slotbydup || []).push({
+								id: '2580708',
+								container: s,
+								size: '1,1',
+								display: 'inlay-fix'
+							});
+						})();
+						</script>
+						<script src="http://dup.baidustatic.com/js/os.js"></script>
+						
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240332.html" target="_blank">奥巴马不妥协！普京发飙打出中俄3张底牌</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						
+						<li><a target="_blank" href="http://www.micai.com/qydl/50380.html" target="_blank">世界最神秘的10大生物：看看你知道几个</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240388.html" target="_blank">震慑印度：解放军在高原空投一批重装杀器</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240330.html" target="_blank">回国就翻脸！杜特尔特突然就南海仲裁发难</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240337.html" target="_blank">手捧宝贝疙瘩歼-20 大气的中国这次小气了</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240386.html" target="_blank">神秘男人出现在中印边界 中国对其迎头痛击</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240327.html" target="_blank">解放军让美吃个闭门羹 灰头土脸逃出南海</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="news qiwei" id="tab_02" style="display:none;">
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240345.html" target="_blank">中美朝密谋惊天大计 萨德成韩国催命符</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240336.html" target="_blank">在东京建慰安妇铜像 有助日本卸下历史包袱</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240390.html" target="_blank">歼20突然90度垂直高速爬升 发动机有大秘密</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240329.html" target="_blank">韩国人挑拨中巴关系 巴铁小伙做出犀利反击</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240070.html" target="_blank">菲总统称渔民将很快到黄岩岛捕鱼 中方回应</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240125.html" target="_blank">菲律宾动荡 高官竟要把杜特尔特送上法庭</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240065.html" target="_blank">出什么大事了？南海舰队一个团入驻永兴岛</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240119.html" target="_blank">蔡英文显施政败像 内阁进生死时刻</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240071.html" target="_blank">解放军大批战机云集南海 已成三角合围之势</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240126.html" target="_blank">全球最霸气侧漏的十八国 没军队还牛逼哄哄</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240064.html" target="_blank">这就是和中国作对后果 澳大利亚痛失200多亿</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240068.html" target="_blank">歼-20首秀珠海航展？或已装备中国空军</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240121.html" target="_blank">中国对菲援助百亿 美国嫉恨竟然下此毒手</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240067.html" target="_blank">解放军此部队将首先服役苏35 美菲越吓破胆</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240072.html" target="_blank">菲律宾总统准备访问日本 临去前还放下狠话</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240120.html" target="_blank">蔡英文出罕见绝情法令 专门残害大陆青年</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240061.html" target="_blank">安倍欲向菲提供3.25亿贷款 杜特尔特未必收</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240069.html" target="_blank">揭“台独”势力六大门派 蔡英文已遭绑架</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240122.html" target="_blank">叙利亚竟成导火索 俄罗斯欲与美国殊死一搏</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240063.html" target="_blank">再曝光一台独女 来大陆赚钱还无耻口出狂言</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="news qiwei" id="tab_03" style="display:none;">
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240082.html" target="_blank">中国下杀手 两记重拳打的韩国生不如死</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240074.html" target="_blank">菲律宾外长一席话 中国和美国算是都清醒了</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240123.html" target="_blank">蔡英文押宝法理台独 解放军武统时间表提前</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240062.html" target="_blank">安倍慌了！中国拿下31亿大单斩断日本退路</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240073.html" target="_blank">菲临阵倒戈让奥巴马灰头土脸 中国笑到最后</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240124.html" target="_blank">朴槿惠不肯下台 竟要在韩国推行这样的统治</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240066.html" target="_blank">朴槿惠彻底傻眼！生怕中国当场否决这一要求</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228434.html" target="_blank">蔡英文再提力抗 民众怒斥不做陪葬</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228415.html" target="_blank">日本难以看清菲总统 对华包围网策略混乱</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228437.html" target="_blank">日本政坛突发暴动 只因这一国家爆炸性国策</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228408.html" target="_blank">日本欲加入亚投行？其前首相大爆惊人真相</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228419.html" target="_blank">面对中国太空事业蓬勃发展 美国人心机诡异</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228438.html" target="_blank">美国大选现恐怖一幕：神秘粉末竟吓哭希拉里</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228410.html" target="_blank">美国军舰再闯南海 菲律宾越南竟大呼饶命</a></li>
+                        </ul>
+                    </div>
+                    <div class="jujiao_cn">
+                        <ul>
+						
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228416.html" target="_blank">中国舰艇编队首泊越南金兰湾 带队的真霸气</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228439.html" target="_blank">消息人士爆杜特尔特下一目的 真相令人心寒</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228409.html" target="_blank">大爆中国隐身黑丝内幕 歼20神秘发动机曝光</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228417.html" target="_blank">吉国军警非法贩售武器 卷入中国使馆爆炸案</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228436.html" target="_blank">日拟联合美出动3.6万军队军演 安倍野心暴露</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228412.html" target="_blank">美再闯南海竟有如此阴毒目的 背后涉及四国</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---the middle end---->
+    <!------右边部分开始------->
+    <div class="right">
+        <div class="rightw">
+            <div class="right2">
+                <a target="_blank" href="http://i.qianyan001.com/tbls/" target="_blank"><div class="right2_tit right2_tl1"></div></a>
+                <!---the 谈兵论势 start---->
+                <div class="news newsw">
+				<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://i.qianyan001.com/tbls/192378.html">平地惊雷！中国原子弹爆炸52周年</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic">
+								<a target="_blank" href="http://i.qianyan001.com/tbls/192378.html">
+									<img src="http://pic.qianyan001.com/uploads/allimg/160510/29-1605101JR50-L.jpg"/>
+								</a>
+							</div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://i.qianyan001.com/tbls/192378.html">今年是中国首次核武器试验52周年的年份，在中国向着伟大复兴的中国梦进发的道...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="news_nr">
+                        <ul>
+                            <li><a target="_blank" href="http://i.qianyan001.com/tbls/185632.html" target="_blank">中国空军再赴巴铁到底为了啥？</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="right2 right2border">
+               <a target="_blank" href="http://i.qianyan001.com/jqwx/" target="_blank"><div class="right2_tit right2_tl2"></div></a>
+                <!---the 军情万象 start---->
+                <div class="news newsw">
+				<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://i.qianyan001.com/jqwx/210358.html">暗夜中的杀手：F22猛禽战斗机探析</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://i.qianyan001.com/jqwx/210358.html"><img src="http://pic.qianyan001.com/uploads/allimg/160718/123-160GQK3470-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://i.qianyan001.com/jqwx/210358.html">F-22，世界上第一种也是目前唯一一种投产的第四代超音速战斗机，它所具备的“...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="news_nr">
+                        <ul>
+                            <li><a target="_blank" href="http://i.qianyan001.com/jqwx/200945.html" target="_blank">美国最强陆地巡洋舰： M1A1坦克</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="weixin">
+				<!-- 广告位：2015前沿首页军情万象下方微信推广（新版） -->
+				<script>
+				(function() {
+					var s = "_" + Math.random().toString(36).slice(2);
+					document.write('<div id="' + s + '"></div>');
+					(window.slotbydup=window.slotbydup || []).push({
+						id: '2324929',
+						container: s,
+						size: '238,165',
+						display: 'inlay-fix'
+					});
+				})();
+				</script>
+				<script src="http://dup.baidustatic.com/js/os.js"></script>
+				</div>
+            </div>
+            <div class="clear"></div>
+            <div class="right2">
+                <a target="_blank" href="http://i.qianyan001.com/qwjy/" target="_blank"><div class="right2_tit right2_tl3"></div></a>
+                <!---the 卫星之眼 start---->
+                <div class="news newsw">
+				<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://i.qianyan001.com/qwjy/201919.html">不忍直视！士兵与动物的那些事</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://i.qianyan001.com/qwjy/201919.html"><img src="http://pic.qianyan001.com/uploads/allimg/160622/123-1606221405140-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://i.qianyan001.com/qwjy/201919.html">大家都知道动物是我们人类的好朋友，在危险的战场上是我们士兵亲密无间的战友...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="news_nr">
+                        <ul>
+                            <li><a target="_blank" href="http://i.qianyan001.com/qwjy/185320.html" target="_blank">创意无限！那些被玩坏的奇葩武器</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="right2 right2b">
+                <a target="_blank" href="http://i.qianyan001.com/jmkz/" target="_blank"><div class="right2_tit right2_tl4"></div></a>
+                <!---the 军迷客栈 start---->
+                <div class="news newsw">
+				<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://i.qianyan001.com/jmkz/190136.html">五一假期军迷必去的军事圣地</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://i.qianyan001.com/jmkz/190136.html"><img src="http://pic.qianyan001.com/uploads/allimg/160429/29-1604291542060-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://i.qianyan001.com/jmkz/190136.html">【天安门广场】1949年10月1日，在这里举行了开国大典，它由此被设计入国徽，...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="news_nr">
+                        <ul>
+                            <li><a target="_blank" href="http://i.qianyan001.com/jmkz/187992.html" target="_blank">曝美军海外七宗罪：恶魔的化身</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------右边部分结束------->
+    <div class="clear"></div>
+    <div class="wuqi">
+        <div class="wuqi_tit">
+            <ul>
+                <li><span class="wuqi_t1">解放军陆军</span></li>
+                <li><span class="wuqi_t2">解放军海军</span></li>
+                <li><span class="wuqi_t3">解放军空军</span></li>
+                <li><span class="wuqi_t4">解放军二炮</span></li>
+                <li><span class="wuqi_t5">中国航空</span></li>
+				<li><span class="wuqi_t6">中国兵器</span></li>
+				
+            </ul>
+            <p><a target="_blank" href="http://i.qianyan001.com/wuqi/" target="_blank">武器库&gt;&gt;</a></p>
+        </div>
+        <div class="hover hMain" id="con_ones_1" style="display:block;">
+             <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6796.html" target="_blank">AK-47</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7025.html" target="_blank">勃朗宁手枪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7098.html" target="_blank">INSAS</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7095.html" target="_blank">92式手枪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7088.html" target="_blank">沙漠之鹰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7065.html" target="_blank">左轮手枪</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/7156.html" target="_blank">GP-15</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5651.html" target="_blank">红箭”8</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/5636.html" target="_blank">81式扫雷车</a></p>
+            </div>
+            <div class="wuqi_t">
+               <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5615.html" target="_blank">M3侦察车</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7115.html" target="_blank">RPK-74</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6856.html" target="_blank">M3霰弹枪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6900.html" target="_blank">79式冲锋枪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5441.html" target="_blank">豹2坦克</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6832.html" target="_blank">99式步枪</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/6780.html" target="_blank">M4卡宾枪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6826.html" target="_blank">81式步枪</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7146.html" target="_blank">三十节</a></p>
+            </div>
+        </div>
+        <div class="hover hMain" id="con_ones_2" style="display:none;">
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6708.html" target="_blank">辽宁舰</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/6692.html" target="_blank">卓越号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6632.html" target="_blank">新罗西斯克</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/6621.html" target="_blank">里根号航母</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/6605.html" target="_blank">福莱斯特</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6705.html" target="_blank">加富尔号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6552.html" target="_blank">独立级航母</a></p><span>|</span>
+
+                <p><a target="_blank" href=" http://i.qianyan001.com/wuqi/201508/5737.html" target="_blank">052C驱逐舰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5945.html" target="_blank">基洛潜艇</a></p>
+            </div>
+            <div class="wuqi_t">
+               <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6452.html" target="_blank">054A护卫舰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6532.html" target="_blank">潍坊舰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6516.html" target="_blank">宜昌号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6449.html" target="_blank">智慧女神</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6442.html" target="_blank">卡亚护卫舰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6632.html" target="_blank">贝亚恩登录舰</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6688.html" target="_blank">维拉特航母</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6686.html" target="_blank">飞鹰护卫舰</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/6470.html" target="_blank">马鞍山号</a></p>
+            </div>
+        </div>
+        <div class="hover hMain" id="con_ones_3" style="display:none;">
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4343.html" target="_blank">直-15</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4342.html" target="_blank">直-11 </a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4332.html" target="_blank">直-9A</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4312.html" target="_blank">EC130</a></p><span>|</span>
+
+                 <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4290.html" target="_blank">蜗牛-C</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4273.html	" target="_blank">罗兵逊R44</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4261.html" target="_blank">贝尔412</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/3567.html" target="_blank">水轰-5</a></p><span>|</span>
+
+               	 <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4343.html" target="_blank">直-15</a></p>
+            </div>
+            <div class="wuqi_t">
+                 <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4342.html" target="_blank">直-11 </a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4332.html" target="_blank">直-9A/<a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4312.html" target="_blank">EC130</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4287.html" target="_blank">卡-31</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4273.html	" target="_blank">罗兵逊R44</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4261.html" target="_blank">贝尔412</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4246.html" target="_blank">水轰-5</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4104.html" target="_blank">运-8F</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4244.html" target="_blank">轰-6</a></p>
+            </div>
+        </div>
+        <div class="hover hMain" id="con_ones_4" style="display:none;">
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5284.html" target="_blank">鹰击62</a></p><span>|</span>
+                           
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5281.html" target="_blank">长剑10</a></p><span>|</span>
+				
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5279.html" target="_blank">鹰击12</a></p><span>|</span>
+			   
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5278.html" target="_blank">鹰击82</a></p><span>|</span>
+			   
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5263.html" target="_blank">鹰击83</a></p><span>|</span>
+			  
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5237.html" target="_blank">巨浪1</a></p><span>|</span>
+		  
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5238.html" target="_blank">巨浪2</a></p><span>|</span>
+	   
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5091.html" target="_blank">东风31</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4777.html" target="_blank">63式迫击炮</a></p>
+            </div>
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5097.html" target="_blank">东风5</a></p><span>|</span>
+          
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5102.html" target="_blank">东风41</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5100.html" target="_blank">红箭10</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5223.html" target="_blank">陆盾2000</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5232.html" target="_blank">战斧导弹</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5140.html" target="_blank">爱国者导弹</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5168.html" target="_blank">S400导弹</a></p><span>|</span>
+
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/5150.html" target="_blank">山毛榉导弹</a></p>
+				<p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/4771.html" target="_blank">PP89式迫击炮</a></p>
+            </div>
+        </div>
+        <div class="hover hMain" id="con_ones_5" style="display:none;">
+            <div class="wuqi_t">
+               <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7651.html" target="_blank">神舟10号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7661.html" target="_blank">神州9号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7660.html" target="_blank">神舟8号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7659.html" target="_blank">神舟7号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7658.html" target="_blank">神州6号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7657.html" target="_blank">神州5号</a></p><span>|</span> 
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7644.html" target="_blank">阿波罗11号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7642.html" target="_blank">双子座3号</a></p>
+
+            </div>
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7640.html" target="_blank">太空船1号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7638.html" target="_blank">嫦娥3号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7636.html" target="_blank">嫦娥1号</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7611.html" target="_blank">ACE</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7609.html" target="_blank">星尘</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7582.html" target="_blank">双星计划</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7641.html" target="_blank">暴风雪</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7648.html" target="_blank">进步</a></p>
+            </div>
+        </div>
+		 <div class="hover hMain" id="con_ones_6" style="display:none;">
+            <div class="wuqi_t">
+               <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7436.html" target="_blank">FT-3</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7435.html" target="_blank">国产FT-1</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7430.html" target="_blank">天戈激光导弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7429.html" target="_blank">雷石-6</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7425.html" target="_blank">雷霆-2激光导弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7428.html" target="_blank">雷霆-3激光导弹</a></p><span>|</span> 
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7316.html" target="_blank">73-式手榴弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7313.html" target="_blank">82-1式手榴弹</a></p>
+				 <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7196.html" target="_blank">GLD260地雷</a></p>
+
+            </div>
+            <div class="wuqi_t">
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7311.html" target="_blank">82-1式手榴弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7310.html" target="_blank">82-3式手榴弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7309.html" target="_blank">84式手榴弹</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7256.html" target="_blank">特-1水雷</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7255.html" target="_blank">65型水雷</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7247.html" target="_blank">沉-3水雷</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7248.html" target="_blank">锚-4水雷</a></p><span>|</span>
+
+                <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7253.html" target="_blank">M-2水雷</a></p>
+				 <p><a target="_blank" href="http://i.qianyan001.com/wuqi/201508/7195.html" target="_blank">72式跳雷</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ad" style="*+margin-bottom:15px;">
+		<!--banner2 960*90-2015前沿首页banner2（新版）-->
+		<script>
+		(function() {
+			var s = "_" + Math.random().toString(36).slice(2);
+			document.write('<div id="' + s + '"></div>');
+			(window.slotbydup=window.slotbydup || []).push({
+				id: '2088051',
+				container: s,
+				size: '1003,90',
+				display: 'inlay-fix'
+			});
+		})();
+		</script>
+		<script src="http://dup.baidustatic.com/js/os.js"></script>
+</div>
+<div class="content2">
+    <div class="title">
+        <a href="http://bbs.qianyan001.com/bbs/list_253_1.html" target="_blank"><div class="title_tb">军事精华</div></a>
+        <div class="more"><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_253_1.html" target="_blank">更多>></a></div>
+    </div>
+    <div class="clear"></div>
+    <div class="left">
+	<div class="datu"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228490.html" target="_blank"> <img src="http://pic.qianyan001.com/uploads/allimg/161024/126-1610241T2190-L.jpg" alt="不止辽宁号 中国航母竟还有另外6艘"> </a>
+
+            <p><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228490.html" >不止辽宁号 中国航母竟还有另外6艘</a></p>
+        </div>
+        <div class="news">
+            <div class="news_tit">
+                <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/bbs/list_258_1.html" target="_blank">军事历史</a></div>
+            </div>
+		
+		<div class="media_wrap bottom25">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240084.html">中国南海略施小计 逼得越南政府快倒台</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240084.html"><img src="http://pic.qianyan001.com/uploads/allimg/161025/127-161025112I10-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240084.html">越南总参谋部和越南海空军以及越南南方军区，将比越南北方陆军更急迫于推翻越南社会主义政府，因为中国...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+		<div class="media_wrap">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240349.html">中国钓岛行动令日着急 安倍急忙求援</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240349.html"><img src="http://pic.qianyan001.com/uploads/allimg/161026/127-161026104A00-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240349.html">日本很担心，所以会考虑它的海上自卫队过来，但问题是海上自卫队一旦真是要出动的话，那就是发生了质变...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="news_nr">
+                <ul>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/228428.html" target="_blank">朴槿惠一招偷梁换柱 却被北京抓个正着</a></li>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240086.html" target="_blank">奥巴马下台太惨 美欧重大协议全谈崩</a></li>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/227894.html" target="_blank">柬首相南海挺华遭辱骂 霸气回击真给力</a></li>				 
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="middle">
+        <div class="news">
+            <div class="jujiao_cn jujiao_cn1">
+                <ul>
+				<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240435.html" target="_blank">中国重返联合国已45年 成果丰硕</a></em></li>
+				<li><em><a target="_blank" href=" http://www.micai.com/qydl/50379.html" target="_blank">去迪拜捡垃圾！盘点奇葩又高薪的工作</a></em></li>
+				
+				<li><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240377.html" target="_blank">歼20服役 美日遏制中国的又一个计划落空</a></em></li>
+				<li><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240440.html" target="_blank">非洲维和部队遭到武力驱赶 联合国表示谴责</a></em></li>
+				<li><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240379.html" target="_blank">特朗普公开夸赞普京：他比奥巴马强太多了</a></em></li>
+				<li><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240439.html" target="_blank">美军真的那么厉害么？实际也就赢了这几场</a></em></li>
+				<li><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240381.html" target="_blank">角逐巴西亚马逊丛林 解放军参赛队总分第一</a></em></li>
+                </ul>
+            </div>
+            <div class="retie">
+                <div class="news_tit">
+                    <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/news/list_254_1.html" target="_blank">网上谈兵</a></div>
+                </div>
+                <div class="news">
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240375.html" target="_blank">解放军天基动能武器 威力超核武器</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240367.html" target="_blank">日发布新防卫白皮书 准备与美充当国际警察</a></li>
+						<li><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240365.html" target="_blank">国际狙击手射击竞赛落幕 雪豹突击队获冠军</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240363.html" target="_blank">普京用了这一妙招 竟让安倍朴槿惠马首是瞻</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240371.html" target="_blank">中国减持美债至4年来最低 奥巴马急红眼了</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240370.html" target="_blank">国恨家仇：中国人不得不记住的五个日本人</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240373.html" target="_blank">部队4次换装老式152加榴炮称山地战有大用</a></li>
+                        </ul>
+                    </div>
+                    <div style="width: 1px;height: 6px"></div>
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240369.html" target="_blank">日迎合国内右翼势力 中日埋下隐患</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240360.html" target="_blank">印向尼泊尔新总理献殷勤欲＂排挤＂中国</a></li>
+						<li><em><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240361.html" target="_blank">美元大崩溃前夜：中国即将迎来千年大变局</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240357.html" target="_blank">蔡英文敢搞台独？不止是大陆要收拾修理她</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240380.html" target="_blank">台官员：陆客是朋友 不要说那些歧视的鸟话</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240376.html" target="_blank">日在钓岛频繁添乱 又部署一套军用雷达监测</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240378.html" target="_blank">普京来华为何要送北京一个很特别的礼物</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <div class="rightw">
+            <div class="right2">
+                <div class="right2_tit right2_tl5"></div>
+                <!---the 兵势 start---->
+                <div class="news newsw">
+				<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://i.qianyan001.com/wqfb/191246.html">吊炸天的中国征兵视频！美国都服了</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic">
+								<a target="_blank" href="http://i.qianyan001.com/wqfb/191246.html">
+									<img src="http://pic.qianyan001.com/uploads/allimg/160505/29-1605051T4170-L.jpg"/>
+									<img class="pa" style="width:25px;height:25px;left:7px;top:60px;position:absolute;" src="http://bbs.qianyan001.com/qianyan_2015/images_2015/play.png">
+								</a>
+							</div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://i.qianyan001.com/wqfb/191246.html">兵者，国之大事，死生之地，不可不察也！...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="news_nr">
+                        <ul>
+                            <li><a target="_blank" href="http://i.qianyan001.com/wqfb/184776.html" target="_blank">梦想映照空天！中国空军征兵宣传片</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="right2 right2b">
+                <a target="_blank" href="http://i.qianyan001.com/clt/" target="_blank"><div class="right2_tit right2_tl6"></div></a>
+                <div class="syground" id="shengyin_1">
+				<div class="shengyin">
+                        <h4><a target="_blank" href="http://i.qianyan001.com/clt/227998.html">50发弹匣和50米距离横扫一切防弹衣</a></h4>
+
+                        <div class="shengyin_nav"><a target="_blank" href="http://i.qianyan001.com/clt/list_282_1.html" class="syone"><img width=48px height=48px src="http://i.qianyan001.com/images_shengyin/shengyin_code_282.jpg"/></a> <span> <a target="_blank"
+                                href="http://i.qianyan001.com/clt/list_282_1.html" class="stitle">钟辩予<em></em></a> <a target="_blank" href="http://i.qianyan001.com/clt/list_282_1.html" class="snav">
+								资深军迷，军事前沿特邀军事评论员
+								</a> </span>
+                        </div>
+                        <div class="clear"></div>
+                    </div><div class="shengyin">
+                        <h4><a target="_blank" href="http://i.qianyan001.com/clt/228000.html">中国055驱逐舰与美DDG1000比谁厉害？</a></h4>
+
+                        <div class="shengyin_nav"><a target="_blank" href="http://i.qianyan001.com/clt/list_287_1.html" class="syone"><img width=48px height=48px src="http://i.qianyan001.com/images_shengyin/shengyin_code_287.jpg"/></a> <span> <a target="_blank"
+                                href="http://i.qianyan001.com/clt/list_287_1.html" class="stitle">钱介之<em></em></a> <a target="_blank" href="http://i.qianyan001.com/clt/list_287_1.html" class="snav">
+								时政评论员，国际局势观察者
+								</a> </span>
+                        </div>
+                        <div class="clear"></div>
+                    </div><div class="shengyin">
+                        <h4><a target="_blank" href="http://i.qianyan001.com/clt/227997.html">二战10大经典坦克 虎式坦克只能排第二</a></h4>
+
+                        <div class="shengyin_nav"><a target="_blank" href="http://i.qianyan001.com/clt/list_283_1.html" class="syone"><img width=48px height=48px src="http://i.qianyan001.com/images_shengyin/shengyin_code_283.jpg"/></a> <span> <a target="_blank"
+                                href="http://i.qianyan001.com/clt/list_283_1.html" class="stitle">甄爱华<em></em></a> <a target="_blank" href="http://i.qianyan001.com/clt/list_283_1.html" class="snav">
+								时尚达人，某潮流网站编辑
+								</a> </span>
+                        </div>
+                        <div class="clear"></div>
+                    </div> 
+				<div class="shengyin" style="margin-bottom:0px">
+                        <h4><a target="_blank" href="http://i.qianyan001.com/clt/227737.html">看似普通钢管加个底座 却是凶狠武器</a></h4>
+
+                        <div class="shengyin_nav"><a target="_blank" href="http://i.qianyan001.com/clt/list_278_1.html" class="syone"><img width=48px height=48px src="http://i.qianyan001.com/images_shengyin/shengyin_code_278.jpg"/></a> <span> <a target="_blank"
+                                href="http://i.qianyan001.com/clt/list_278_1.html" class="stitle">王斯夫<em></em></a> <a target="_blank" href="http://i.qianyan001.com/clt/list_278_1.html" class="snav">
+								腹黑专家，军事圈狗仔队
+								</a> </span>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="content2">
+    <div class="title">
+        <a href="http://bbs.qianyan001.com/news/list_248_1.html" target="_blank"><div class="title_tb">军事贴图</div></a>
+        <div class="more"><a target="_blank" href="http://bbs.qianyan001.com/news/list_248_1.html" >更多>></a></div>
+    </div>
+    <ul class="hot_img">
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228515.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161024/127-1610241453450-L.jpg"/>
+
+            <p>伊拉克重兵围攻摩苏尔地区</p>
+        </a></li> 
+		<li><a target="_blank" href="http://www.micai.com/qydl/52197.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161025/12-1610251S2530-L.jpg"/>
+
+            <p>中国博士娶日本太太 回国后看房价</p>
+        </a></li><li><a target="_blank" href=" http://www.micai.com/qydl/52186.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161025/12-1610251S0360-L.jpg"/>
+
+            <p>震撼世界的神秘之地 中国此处最诡</p>
+        </a></li> 
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228514.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161024/127-1610241444530-L.jpg"/>
+
+            <p>日本海上自卫队最新25DD护卫舰</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227995.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201610240-L.jpg"/>
+
+            <p>俄罗斯航天史上明珠和平号空间站</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227993.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201549360-L.jpg"/>
+
+            <p>中国99式主战坦克罕见照片</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227996.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201616060-L.jpg"/>
+
+            <p>美国空军大阵仗震慑世界</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227994.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201602200-L.jpg"/>
+
+            <p>价值百亿的七千吨护卫舰</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227990.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201555380-L.jpg"/>
+
+            <p>见识一下超级彩虹鱼运输机</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227733.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161019/127-1610191P5320-L.jpg"/>
+
+            <p>俄第一架伊尔运输机首飞</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227732.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161019/127-1610191JJ90-L.jpg"/>
+
+            <p>法国马赫战机专杀米格25 比SR71快</p>
+        </a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227731.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161019/127-1610191J2370-L.jpg"/>
+
+            <p>苏-34新机 尾锥巨大非常抢眼</p>
+        </a></li>
+    </ul>
+    <div class="ad">
+		<!--banner3 960*90-2015前沿首页banner3（新版）-->
+ 
+		<script>
+		(function() {
+			var s = "_" + Math.random().toString(36).slice(2);
+			document.write('<div id="' + s + '"></div>');
+			(window.slotbydup=window.slotbydup || []).push({
+				id: '2088052',
+				container: s,
+				size: '1003,90',
+				display: 'inlay-fix'
+			});
+		})();
+		</script>
+		<script src="http://dup.baidustatic.com/js/os.js"></script>
+	</div>
+</div>
+<div class="content2">
+    <div class="title">
+        <a target="_blank" href="http://bbs.qianyan001.com/news/list_234_1.html" ><div class="title_tb">环球精粹</div></a>
+        <div class="more"><a target="_blank" href="http://bbs.qianyan001.com/news/list_234_1.html" >更多>></a></div>
+    </div>
+    <div class="clear"></div>
+    <div class="left">
+	<div class="datu"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228455.html" target="_blank"> <img src="http://pic.qianyan001.com/uploads/allimg/161024/126-1610241U0030-L.jpg" alt="彭加木失踪真相曝光 高层下令禁口"> </a>
+
+            <p><a target="_blank" href="http://bbs.qianyan001.com//news/201610/228455.html" target="_blank">彭加木失踪真相曝光 高层下令禁口</a></p>
+        </div>
+        <div class="news">
+            <div class="news_tit">
+                <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/news/list_237_1.html" target="_blank">海外奇闻</a></div>
+            </div>
+			
+            <div class="media_wrap bottom25">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240408.html">盘点慈禧太后陪葬时 十大绝世珍宝</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240408.html"><img src="http://pic.qianyan001.com/uploads/allimg/161026/126-161026132A50-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/news/201610/240408.html">在慈禧死后陪葬了无数的绝世珍宝。我们就一起来看看：慈禧墓的十大绝世珍宝....</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+			<div class="media_wrap bottom25">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227423.html">地球上 居然还有这么多奇怪的生物</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227423.html"><img src="http://pic.qianyan001.com/uploads/allimg/161020/12-161020152K20-L.jpg"></a></div>
+                    <div class="media_txt">
+					
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/news/201610/227423.html">我们看到这个生物，看起来就是肉腻腻的，头上还有触角，可能你想象不到这是海...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+			<div class="media_wrap">
+                <h4 class="title_l"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227433.html">美酒物语 人们喝酒是怎么样喝醉的</a></h4>
+                <div class="media_content pr">
+                    <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227433.html"><img src="http://pic.qianyan001.com/uploads/allimg/161026/12-1610261H2510-L.jpg"></a></div>
+                    <div class="media_txt">
+                        <p>
+                            <a target="_blank" href="http://bbs.qianyan001.com/news/201610/227433.html">Hello，亲爱的各位小伙伴，我是一杯美酒。我们酒类在你们人类的生活中，具有...</a>
+                        </p>  
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            
+            <div class="news_nr">
+                <ul>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240406.html" target="_blank">中国能否胜出？中日美欧之间的对撞机竞赛</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240405.html" target="_blank">量子计算 信息传输速度竟是光速的1.9倍</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240407.html" target="_blank">惊险 昨夜又一颗小行星接近地球仅隔1周</a></li>   
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="middle">
+        <div class="news">
+            <div class="jujiao_cn jujiao_cn1">
+                <ul>
+				<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240395.html" target="_blank">海平面升高怎么办 冷冻南极洲融冰
+					</a></em></li> 
+				<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240403.html" target="_blank">侏罗纪公园 可能把恐龙的这种特征搞错了</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240404.html" target="_blank">东北大学理学院教授张鑫 执着于星空的探索</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240132.html" target="_blank">太阳系的资源能否造一个包裹住太阳的球壳？</a></li>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240409.html" target="_blank">宇宙粒子照射金字塔 结果惊现神秘古墓！</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240410.html" target="_blank">法国调查显示无线电磁波危害儿童认知力</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240411.html" target="_blank">一种新光线将将对量子物理产生彻底变革</a></li>
+                </ul>
+            </div>
+            <div class="retie">
+                <div class="news_tit">
+                    <div class="tit_wenzi"><a target="_blank" href="http://bbs.qianyan001.com/news/list_238_1.html" target="_blank">探索发现</a></div>
+                </div>
+                <div class="news">
+                    <div class="jujiao_cn">
+                        <ul>
+						<li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228449.html" target="_blank">神农架有野人 沉寂40年的秘密公开</a></em></li>	
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240400.html" target="_blank">探测器在火星发现环形裂缝 揭开20年谜团</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240396.html" target="_blank">大自然力量让人震撼 揭中国最美10大名山</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240398.html" target="_blank">男孩不慎掉进动物园河中！下幕让人惊呆</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240137.html" target="_blank">大跌眼镜！霸王龙真实声音与鸵鸟等鸟类相似</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240136.html" target="_blank">碳纳米管 NASA Goddard科学家开发新望远镜</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240134.html" target="_blank">震撼！行星在宇宙中的普遍程度可能超乎想像</a></li>
+                        </ul>
+                    </div>
+                    <div style="width: 1px;height: 6px"></div>
+                    <div class="jujiao_cn">
+                        <ul>
+                        <li class="liFirst"><em><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227928.html" target="_blank">塑料芯片首问世 屈伸灵活无损性能</a></em></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240413.html" target="_blank">研究表明火星沟渠不太可能与液态水有关</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240412.html" target="_blank">科学家冒死爆料 美军基地由外星人所掌管</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240141.html" target="_blank">球状闪电究竟是啥 中国科学家提出新见解</a></li>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240399.html" target="_blank">太空神秘闪光！爆发瞬间其能量大的惊人</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240402.html" target="_blank">两个美女稻田捉鱼 最后成果震撼全村</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240397.html" target="_blank">新发现化石揭秘 首次动物大灭绝元凶曝光</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <div class="rightw">
+            <div class="right2">
+                <a target="_blank" href="http://bbs.qianyan001.com/news/list_236_1.html" target="_blank"><div class="right2_tit right2_tl7"></div></a>
+                <!---the 兵势 start---->
+                <div class="news newsw">
+				<div class="media_wrap bottom30">
+                        <h4 class="title4"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240093.html">国产航母亮点 助歼15缩短起飞距离</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240093.html"><img src="http://pic.qianyan001.com/uploads/allimg/160912/123-1609121Q2360-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240093.html">媒体9月2日报道：8月25日，中国国防部发言人吴谦在例行记者会上回答关于中国首艘国产航母的问题时说：首艘国产航母的建造进展顺利。正在按计划推进。我们这艘国产航母既有...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				<div class="media_wrap bottom30">
+                        <h4 class="title4"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/227906.html">震撼！歼20现身世界海拔最高机场</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/227906.html"><img src="http://pic.qianyan001.com/uploads/allimg/161020/127-1610201422510-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/227906.html">今天，据多家航空领域媒体转载微博网友消息，我国第五代战机歼20已经前往海拔4411米的世界最高机场稻城亚丁机场，进行高原试飞。相对于美国和俄罗斯，我国由于拥有面积广阔...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+            	</div>
+            	<div class="clear"></div>
+            </div>
+            <div class="right2 right2b">
+                <a target="_blank" href="http://bbs.qianyan001.com/news/list_236_1.html" target="_blank"><div class="right2_tit right2_tl8"></div></a>
+                <!---the 兵势 start---->
+                <div class="news newsw">
+                    <div class="media_wrap bottom30">
+                        <h4 class="title4"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240139.html">外星人被奴役 飞行员51区发现秘密</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240139.html"><img src="http://pic.qianyan001.com/uploads/allimg/160914/127-1609141019130-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://bbs.qianyan001.com/news/201610/240139.html">长期以来，美国内华达州神秘的51区和好莱坞科幻大片有着不解之缘，但凡提到它，总会和不明飞行物(UFO)及外星人沾上边。最近，一名飞行员用无人机进入这个戒备深严的地区，...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+					<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227673.html">鸟之殇 全球有1/8的鸟类面临灭绝</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227673.html"><img src="http://pic.qianyan001.com/uploads/allimg/161019/126-161019114H40-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://bbs.qianyan001.com/news/201610/227673.html">目前，全球鸟类生存状况堪忧，国际鸟类联盟最新一份研究报告指出，全球八分之一的鸟类——1300多种鸟，面临着灭绝危机，它们的生存状况日益恶化，...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="news_nr news_nrh1" style="margin-bottom:0px">
+                        <ul>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228463.html" target="_blank">改变世界的逆天发明 中国占了两个</a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="content2">
+    <div class="title">
+        <a href="http://bbs.qianyan001.com/news/list_247_1.html" target="_blank"><div class="title_tb">环球热图</div></a>
+        <div class="more"><a target="_blank" href="http://bbs.qianyan001.com/news/list_247_1.html" target="_blank">更多>></a></div>
+    </div>
+    <ul class="hot_img">
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240443.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G550500-L.jpg"/>
+
+            <p>他没有双臂 却打破吉尼斯射箭记录</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240447.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160913/127-1609131504510-L.jpg"/>
+
+            <p>小伙新房现密室 里面东西让人疯狂</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240173.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161026/12-1610261R1090-L.jpg"/>
+
+            <p>在海边这么玩或许才叫高大上！</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240444.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160927/127-16092G315260-L.jpg"/>
+
+            <p>海鸟俯冲捕食企鹅一幕 快如利箭</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240175.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160909/127-160Z91449430-L.jpg"/>
+
+            <p>惊人！大开眼界的吉尼斯世界纪录</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228492.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160907/127-160ZG552400-L.jpg"/>
+
+            <p>工地挖出一东西 撬开之后拔腿就跑</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240177.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161026/12-1610261631290-L.jpg"/>
+
+            <p>天鹅袭击8艘模型船致损失13万元</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240446.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102G639190-L.jpg"/>
+
+            <p>印度新娘倒贴 新郎一夜暴富乐翻天</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228493.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102GAH10-L.jpg"/>
+
+            <p>英国斗牛犬竟天生只有半个身体！</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240176.html"> <img src="http://pic.qianyan001.com/uploads/allimg/161027/12-16102GA0040-L.jpg"/>
+
+            <p>最适合吃梨季节到了！看你喜欢吗</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240452.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160928/127-16092Q400100-L.jpg"/>
+
+            <p>胶片里的德国1950 场景值得回味</p>
+        </a></li>
+	<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240448.html"> <img src="http://pic.qianyan001.com/uploads/allimg/160919/127-1609191459200-L.jpg"/>
+
+            <p>日本小哥改造北京住房 欧范儿十足</p>
+        </a></li>
+    </ul>
+    <div class="ad">
+		<!--banner4 960*90-2015前沿首页banner4（新版）-->
+
+		<!-- 广告位：2015前沿首页banner4（新版） -->
+		<script>
+		(function() {
+			var s = "_" + Math.random().toString(36).slice(2);
+			document.write('<div id="' + s + '"></div>');
+			(window.slotbydup=window.slotbydup || []).push({
+				id: '2088053',
+				container: s,
+				size: '1003,90',
+				display: 'inlay-fix'
+			});
+		})();
+		</script>
+		<script src="http://dup.baidustatic.com/js/os.js"></script>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="content2">
+    <div class="title">
+        <a target="_blank" href="http://www.yaosai.com"><div class="title_tb">君品热卖</div></a>
+        <div class="more"><a target="_blank" href="http://www.yaosai.com" target="_blank">更多>></a></div>
+    </div>
+    <div class="pic1">
+        <div class="news_tit news_tit1">
+            <div class="tit_dian tit_dian1">
+				<a href="javascript:void(0)" class="hover"></a>
+				<a href="javascript:void(0)"></a>
+				<a href="javascript:void(0)"></a>
+			</div>
+        </div>
+        <div class="pic_cn pic_cn1" id="tab_001" style="display:block;">
+		<div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201507/142.html">解放军一副护目镜 令美国将军惊叹不已</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201507/142.html"><img src="http://pic.qianyan001.com/uploads/allimg/150923/71-1509231SQ60-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201507/142.html">最近几年中国军力迅速发展，令世界各国惊叹不已。不仅惊叹中国工业制造水平的巨大进步，也见识到了中国对军事装备观念的大转变。中国军工对于原先并不重视的单兵装备有了新...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201507/142.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201509/346.html">大逼格 大境界 不怕没电的光能充电宝</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201509/346.html"><img src="http://pic.qianyan001.com/uploads/allimg/150929/71-1509291512030-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201509/346.html">在外出行时，电源不能断！节奏不能乱！普普通通的移动充，早已无法我们的用电需求。无论何时何地，我们需要源源不断的电力补充。...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201509/346.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201506/41.html">停车时候用的着 来自警察的吐血忠告</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201506/41.html"><img src="http://pic.qianyan001.com/uploads/allimg/150923/71-1509231T4140-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201506/41.html">随着我国私家车数量的急剧增多，停车位变得越来越紧张，越来越多的车主为找车位头痛。就算找到一个车位停下，大家也别太大意了，近年来停车场里各种抢劫、盗窃、侵害案件频...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201506/41.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201508/234.html">女朋友想在车上过夜 准备这个就够了！</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201508/234.html"><img src="http://pic.qianyan001.com/uploads/allimg/151029/71-1510291KG00-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201508/234.html">一生之中有三分之一的时间是在床上度过的，对于有车一族来说，拥有一张舒适的床是非常有必要的。俗话说，车是移动的家，你的“家”里有一张浪漫的床了吗……...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥259</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201508/234.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pic_cn pic_cn1" id="tab_002" style="display:none;">
+        <div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201510/399.html">重磅号外！以后看电视可能只需一个盒子</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201510/399.html"><img src="http://pic.qianyan001.com/uploads/allimg/151029/71-1510291K2150-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201510/399.html">说起有线电视，估计不少人都要恼火了，为什么，就是因为广告太多，而电视剧什么的太少了，这也是为什么现在越来越多的人不爱看电视的主要原因，任谁也不喜欢因为电视而强忍...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥299</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201510/399.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201507/113.html">海湾战争 一架苏军望远镜令中国坐立不</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201507/113.html"><img src="http://pic.qianyan001.com/uploads/allimg/151029/71-1510291J4590-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201507/113.html">1991年的海湾战争，全新的战争形态和武器装备带给中国军队极大的震撼。在此之前两年，中国结束与越南的边界冲突后，中国领导人还满意的说，“我们的军队是能打仗的。”但在...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201507/113.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201511/413.html">交警坦言：不知道这个 开夜车等于玩命</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201511/413.html"><img src="http://pic.qianyan001.com/uploads/allimg/151210/43-1512101500390-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201511/413.html">有调查显示 60% 的交通事故都发生在夜间及天气不好的情况下，主要是因为驾车的视线比较差引起的。尤其是夜间在没有路灯的道路上行驶，受汽车大灯照射距离的限制，夜间行车...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥299</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201511/413.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201510/400.html">吸引异性的男人有三宝，你肯定不知道</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201510/400.html"><img src="http://pic.qianyan001.com/uploads/allimg/151210/43-1512101502400-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201510/400.html">男人对高科技有种骨子里的爱，打火机、手表、剃须刀，一度被称为“男士三宝”。是每个成功男人不可离身之物！...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201510/400.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div>   
+            
+        </div>
+        <div class="pic_cn pic_cn1" id="tab_003" style="display:none;">
+        <div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201510/391.html">一部德国手机竟看出中德如此大的差距！</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201510/391.html"><img src="http://pic.qianyan001.com/uploads/allimg/151210/43-1512101505400-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201510/391.html">一说起德国制造，大家都觉得好，大到汽车，小到螺丝刀，但他们为什么好，到底好在哪，并不是所有人都清楚。德国制造的口碑是建立在一个非常有意思而且关键的观点上：不相信...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥399</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201510/391.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201510/390.html">永不断电的2W毫安充电宝 199Hold倒众人</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201510/390.html"><img src="http://pic.qianyan001.com/uploads/allimg/151210/43-1512101514190-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201510/390.html">平时，不少网友都喜欢选择假期找个心怡的旅游场所去度假，远离大城市的纷扰。在旅行的过程中，充电宝绝对是必备产品，然而随着充电宝的容量越来越高，重量也在不断增加，充...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201510/390.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201507/170.html">男人为什么一定要戴手表！你一定不知道</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201507/170.html"><img src="http://pic.qianyan001.com/uploads/allimg/151210/43-151210150Q00-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201507/170.html">当你需要一块手表时，说明你重视你的时间，富人和穷人对待时间的根本区别：穷人什么不多就是时间多，在年轻的时候可以随便的浪费、消磨，年老一事无成。富人什么都不缺就是...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥299</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201507/170.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="picwrpa">
+                <h4><a target="_blank" href="http://shop.yaosai.com/article/201604/800.html">特种兵绝杀老美 神秘装备现身！</a></h4>
+
+                <div class="jupin">
+                    <div class="jpleft"><a target="_blank" href="http://shop.yaosai.com/article/201604/800.html"><img src="http://pic.qianyan001.com/uploads/allimg/160407/112-16040G159130-L.jpg"/></a></div>
+                    <div class="jpright">
+                        <p><a target="_blank" href="http://shop.yaosai.com/article/201604/800.html">在世界上有名的特种部队中，美国“海豹”特种部队的名气名列前茅。在媒体的宣染与优秀的战绩下，“海豹”特种部队的知名度超越世界上任何特种部队，但大概也只限于名气而已...</a></p>
+
+                        <div class="jprighti">
+                            <div>
+                                <span>￥199</span>
+                            </div>
+                            <a target="_blank" href="http://shop.yaosai.com/article/201604/800.html" class="gobtn"><img src="http://bbs.qianyan001.com/qianyan_2015/images/g.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </div>
+    </div>
+    <div class="right">
+        <div class="rightw">
+            <div class="right2 right2b">
+                <a target="_blank" href="http://www.yaosai.com" target="_blank" ><div class="right2_tit right2_tl9"></div></a>
+                <!---the 兵势 start---->
+                <div class="tejia">
+				<div class="tejia_main">
+                        <a target="_blank" href="http://www.yaosai.com/shop/shoudiandao/">
+                            <img src="http://pic.qianyan001.com/uploads/allimg/150923/71-1509231R5450-L.jpg"/>
+
+                            <p>史上逆天超级手电特价只要199元!</p>
+                        </a>
+
+                        <div class="clear"></div>
+                        <div class="jiage"><span>￥199元</span><em>￥318</em><i>已售1356件</i></div>
+                    </div><div class="tejia_main">
+                        <a target="_blank" href="http://shop.yaosai.com/article/201509/327.html">
+                            <img src="http://pic.qianyan001.com/uploads/160301/43-1603011ZRA32.jpg"/>
+
+                            <p>中国的这项技术令俄军工叹服！</p>
+                        </a>
+
+                        <div class="clear"></div>
+                        <div class="jiage"><span>￥199元</span><em>￥398</em><i>已售1874件</i></div>
+                    </div><div class="tejia_main">
+                        <a target="_blank" href="http://t.yaosai.com/shop/chongdianbao.html">
+                            <img src="http://pic.qianyan001.com/uploads/allimg/160303/112-1603031339170-L.jpg"/>
+
+                            <p>给手机充电的太阳能巨无霸只要199元</p>
+                        </a>
+
+                        <div class="clear"></div>
+                        <div class="jiage"><span>￥199</span><em>￥398</em><i>已售1246</i></div>
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ad">
+		<!--banner5 960*90-2015前沿首页banner5（新版）-->
+		<script>
+		(function() {
+			var s = "_" + Math.random().toString(36).slice(2);
+			document.write('<div id="' + s + '"></div>');
+			(window.slotbydup=window.slotbydup || []).push({
+				id: '2088055',
+				container: s,
+				size: '1003,90',
+				display: 'inlay-fix'
+			});
+		})();
+		</script>
+		<script src="http://dup.baidustatic.com/js/os.js"></script>
+	</div>
+</div>
+<div class="content2">
+    <div class="pic1">
+        <div class="hot">
+            <div class="hot_left">
+                <div class="news_tit">
+                    <div class="tit_wenzi"><a target="_blank" href="#" target="_blank">武器评说</a></div>
+                </div>
+                <ul>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/226244.html" target="_blank">当房东进入女生退租房间后 瞬间休克</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240366.html" target="_blank">西方推演第三次世界大战 中国结局让人意外</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/226826.html" target="_blank">三国名将武力值大排行 关羽竟然未进前五</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/226571.html" target="_blank">中国古代武功最高霸主 第一竟是他</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/226825.html" target="_blank">匈奴灭亡真相 英雄竟死于新婚之夜</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/226499.html" target="_blank">解放军一集团军连夜调兵 令台恐慌</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240098.html" target="_blank">朴槿惠这下彻底玩砸 萨德导弹吹响灭韩号角</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/225226.html" target="_blank">爱国青年单挑一群台独 现场画面异常火爆</a></li>
+                </ul>
+            </div>
+            <div class="hot_left hot_left1">
+                <div class="news_tit">
+                    <div class="tit_wenzi"><a target="_blank" href="#" target="_blank">热门点击</a></div>
+                </div>
+                <ul>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228477.html" target="_blank">美国坚实盟友 之前竟曾有如此渊源</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/225713.html" target="_blank">送一个人上月球怎样 中国能与美国平起平坐</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227969.html" target="_blank">本与中国接壤并臣服中国 现被霸占国不复再</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/227703.html" target="_blank">日本居然 想帮助一外族人民在中国“复国”</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/228478.html" target="_blank">一支海军驱逐两个最强国 领队的竟是中国人</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/bbs/201610/240351.html" target="_blank">民国的傻子大总统 却是最有实权的掌权者</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/225779.html" target="_blank">中国最强硬皇帝对一国恨之入骨 但始终没打</a></li>
+				<li><a target="_blank" href="http://bbs.qianyan001.com/news/201602/172881.html" target="_blank">骚年！你这惊人的自制力是要逆天啊</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <div class="rightw">
+            <div class="right2 c2" style="border: 1px solid transparent">
+                <a target="_blank" href="http://bbs.qianyan001.com/news/list_240_1.html" target="_blank"><div class="right2_tit right2_tl10"></div></a>
+                <div class="news newsw">
+				
+					<div class="media_wrap">
+                        <h4 class="title4"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240422.html">三国正史里 谁才是真正的第一猛将</a></h4>
+                        <div class="media_content pr">
+                            <div class="media_pic"><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240422.html"><img src="http://pic.qianyan001.com/uploads/allimg/161026/126-1610261412170-L.jpg"/></a></div>
+                            <div class="media_txt">
+                                <p>
+                                    <a target="_blank" href="http://bbs.qianyan001.com/news/201610/240422.html">《三国演义》毕竟只是小说，有很...</a>
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
+				
+                    
+                    <div class="news_nr">
+                        <ul>
+						<li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240427.html" target="_blank">最窝囊的皇帝 就为博红颜一笑竟下跪两次</a></li><li><a target="_blank" href="http://bbs.qianyan001.com/news/201610/240423.html" target="_blank">美军著名的倒霉军舰 险些害死总统罗斯福</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+<div id="footerw">
+    <div class="link">
+        <div class="left_title">
+            友情链接
+        </div>
+        <div class="link_cn">
+            <script>
+                (function() {
+                    var s = "_" + Math.random().toString(36).slice(2);
+                    document.write('<div id="' + s + '"></div>');
+                    (window.slotbydup=window.slotbydup || []).push({
+                        id: '2795251',
+                        container: s,
+                        size: '0,0',
+                        display: 'inlay-fix'
+                    });
+                })();
+            </script>
+            <script src="http://dup.baidustatic.com/js/os.js"></script>
+            <a target="_blank" href="http://mil.tiexue.net" target="_blank">铁血军事</a><a target="_blank" href="http://www.chn2007.com" target="_blank">CHN强国网</a><a target="_blank" href="http://news.ifeng.com/mil/" target="_blank">凤凰网军事</a><a target="_blank" href="http://military.people.com.cn/GB/" target="_blank">人民网军事</a><a target="_blank" href="http://war.news.163.com/" target="_blank">网易军事</a><a target="_blank" href="http://www.news.cn/mil/" target="_blank">新华军事</a><a target="_blank" href="http://mil.news.sohu.com/" target="_blank">搜狐军事</a><a target="_blank" href="http://www.zhige.net/" target="_blank">止戈网</a><a target="_blank" href="http://www.top81.com.cn" target="_blank">鼎盛军事</a><a target="_blank" href="http://www.hao123.com" target="_blank">好123导航</a><a target="_blank" href="http://hao.360.cn" target="_blank">360导航</a><a target="_blank" href="http://www.2345.com" target="_blank">2345导航</a><a target="_blank" href="http://123.sogou.com" target="_blank">搜狗导航</a>  <a target="_blank" href="http://junshi.tao123.com/" target="_blank">淘宝军事</a><a target="_blank" href="http://www.xinjunshi.com" target="_blank">新军事</a>  <a target="_blank" href="http://hao.rising.cn" target="_blank">瑞星导航</a>  <a target="_blank" href="http://lt.cjdby.net/" target="_blank">超级大本营</a>  <a target="_blank" href="http://military.china.com/" target="_blank">中华网军事</a>  <a target="_blank" href="http://www.1616.net" target="_blank">1616导航</a>  <a target="_blank" href="http://www.81.net/" target="_blank">军情观察</a>  <a target="_blank" href="http://www.dajunshi.com" target="_blank">大军事</a>  <a target="_blank" href="http://www.chinaiiss.com" target="_blank">战略网</a>  <a target="_blank" href="http://v.ifeng.com/mil/" target="_blank">凤凰视频</a>  <a target="_blank" href="http://www.yaosai.com/" target="_blank">军品商城</a>  <a target="_blank" href="http://www.6789.com" target="_blank">6789导航</a>  <a target="_blank" href="http://www.xilu.com/" target="_blank">西陆</a>  <a target="_blank" href="http://www.13393.com" target="_blank">傲游导航</a><a href="http://www.micai.com/" target="_blank">迷彩虎军事</a><a target="_blank" href="http://www.huangpujs.cn/" target="_blank">黄埔军事</a>  <a target="_blank" href="http://www.js811.com/" target="_blank">军事导航</a>  <a target="_blank" href="http://www.liangjan.com/" target="_blank">亮剑军事</a>   <a target="_blank" href="http://car.qianyan001.com/" target="_blank">汽车频道</a>  <a target="_blank" href="http://www.baxue.com/" target="_blank">霸血军事</a> <a target="_blank" href="http://www.cntiyu.com/" target="_blank">体育之家</a>  <a target="_blank" href="http://www.hao123.com/junshi?qq-pf-to=pcqq.c2c" target="_blank">军事聚焦</a>  <a target="_blank" href="http://www.junshitx.com/" target="_blank">军事天下</a>  <a target="_blank" href="http://www.duba.com/" target="_blank">金山导航</a>  <a target="_blank" href="http://site.baidu.com" target="_blank">百度导航</a>  <a target="_blank" href="http://www.51junshi.com/" target="_blank">51军事</a>  <a target="_blank" href="http://www.xunleimil.com/" target="_blank">迅雷军事</a>  <a target="_blank" href="http://www.huopao.com/" target="_blank">火炮军事</a>  <a target="_blank" href="http://www.6789.cn/" target="_blank">6789小游戏</a>  <a target="_blank" href="http://www.qianyan001.com/templates/about/link.html" target="_blank">更多</a>
+        </div>
+    </div>
+    <div class="ad" style="margin-bottom:15px;">
+		<!--banner6  960*90-2015前沿首页banner6（新版）-->
+ 
+		<!-- 广告位：2015前沿首页banner6（新版） -->
+		<script>
+		(function() {
+			var s = "_" + Math.random().toString(36).slice(2);
+			document.write('<div id="' + s + '"></div>');
+			(window.slotbydup=window.slotbydup || []).push({
+				id: '2088056',
+				container: s,
+				size: '1003,90',
+				display: 'inlay-fix'
+			});
+		})();
+		</script>
+		<script src="http://dup.baidustatic.com/js/os.js"></script>
+	</div>
+    <div id="rightFixed">
+        <div class="code2D"></div>
+        <div class="code2d"></div>
+        <div class="backToTop"></div>
+    </div>
+    <div class="foot">
+        <div class="bq">
+            <a target="_blank" href="http://www.qianyan001.com/templates/about/index.html" target="_blank">关于本站</a>
+            <span> - </span>
+            <a target="_blank" href="http://www.qianyan001.com/templates/about/adv.html" target="_blank">广告服务</a>
+            <span>-</span>
+            <a target="_blank" href="http://www.qianyan001.com/templates/about/job.html" target="_blank">招聘信息</a>
+        </div>
+        <p class="footp">Copyright 2011 QIANYAN lnc. ALL Rights Reserved</p>
+		<p class="footp">京ICP备16004154号</p>
+    </div>
+</div>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+	<script type="text/javascript">
+		BAIDU_CLB_fillSlotAsync('970445','baidu_AD_11');
+	</script>
+	<!-- 1747：前沿首页富媒体 类型：浮层广告位 尺寸：- -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2410067',
+        container: s,
+        size: '1,1',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+<!-- 广告位：2015前沿首页对联（新版） -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2324617',
+        container: s,
+        size: '1,1',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+<div id='cnzz' style="display:none">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257710623'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1257710623' type='text/javascript'%3E%3C/script%3E"));</script>
+	<script src="http://s4.cnzz.com/stat.php?id=1253612000&web_id=1253612000" language="JavaScript"></script>
+	<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258723171'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1258723171%26l%3D3' type='text/javascript'%3E%3C/script%3E"));</script>
+	<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "845199";</script><script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script><script src="http://s4.cnzz.com/stat.php?id=5952989&web_id=5952989" language="JavaScript"></script><script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F328f1f46d338e41c165fbad54a4185a6' type='text/javascript'%3E%3C/script%3E"));</script><script src=' http://w.cnzz.com/c.php?id=30041795' language='JavaScript'></script><script src="http://s19.cnzz.com/stat.php?id=39607&web_id=39607" language="JavaScript"></script><script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F196ac1725f2ce5a91395c1fcf2dd6b37' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+	
+<script type="text/javascript">
+//cnzz
+alifenxi.track('页面浏览',{
+	'来源类型' : window.location.search.slice(1)
+})
+</script>
+
+</html>

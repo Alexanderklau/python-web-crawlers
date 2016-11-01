@@ -23,7 +23,7 @@ def geturllist(url):
 def download(down_url):
     name=str(time.time())[:-3]+"_"+re.sub('.+?/','',down_url)
     print name
-    urllib.urlretrieve(down_url, "D:\\TEMP\\"+name)
+    urllib.urlretrieve(down_url, "/home/lau/PycharmProjects/python-web-crawlers/images/Download_imge"+name)
 
 def getpageurl():
     page_list = []
