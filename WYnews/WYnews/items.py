@@ -6,12 +6,16 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from scrapy import item,Field
 
-
-class sinaItem(scrapy.Item):
+class WynewsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    title = scrapy.Field()
-    link = scrapy.Field()
-    desc = scrapy.Field()
+    news_thread = Field()
+    news_title = Field()
+    news_url = Field()
+    news_time = Field()
+    news_from = Field()
+    from_url = Field()
+    news_body = Field()
 
