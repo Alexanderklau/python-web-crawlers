@@ -2,7 +2,7 @@
 import scrapy
 from ..items import sinaItem
 class DmozSpider(scrapy.Spider):
-    
+
     name = "sina"
     allowed_domians = ["sina.com"]
     start_urls = [
