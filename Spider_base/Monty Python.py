@@ -14,13 +14,13 @@ class SDU:
             "txtId":"*********",
             "txtMM":"*&******"
         }).encode(encoding='gbk')
-        self.opener  = build_opener(HTTPCookieProcessor(self.cookies))
+        self.opener = build_opener(HTTPCookieProcessor(self.cookies))
 
     def getPage(self):
-        requset = Request(
+        requeset = Request(
             url = self.loginUrl,
             data= self.postdata)
-        result = self.opener.open(requset)
+        result = self.opener.open(requeset)
 
         print(result.read().decode('utf-8'))
 
