@@ -7,4 +7,7 @@ html = urlopen(url)
 bsObj = BeautifulSoup(html)
 title = bsObj.find("div",{"class":"QZlisttxt"}).findAll("p")
 for name in title:
-    print(name.get_text())
+    txt = name.get_text()
+    csvfile = open("page.txt","a+")
+    csvfile.writelines(txt+'\n')
+    csvfile.close()
