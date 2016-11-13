@@ -1,0 +1,37 @@
+泰拉瑞亚这款游戏自由度极高深受玩家欢迎，最近许多朋友在问泰拉瑞亚钓鱼方法，那么泰来瑞亚怎么钓鱼呢？这次小编就为大家分享泰拉瑞亚钓鱼方法全解析，欢迎浏览。
+
+泰拉瑞亚钓鱼方法全解析
+如图
+
+钓鱼需求
+这就是钓鱼啦，十分具有优雅气息，适合有闲情逸致的人去做。不过要是运气好的话也会对冒险起到很大的帮助。
+①手中拿着钓竿
+②背包里有鱼饵(显示xx%垂钓威力的东西)
+③水体(蜂蜜或是岩浆也可以，岩浆需要热线钓竿)足够大。水最少需要75物块大小，蜂蜜是50+，大海是1000+
+④玩家没有站在水体里
+更多精彩尽在 泰拉瑞亚专题：http://www.3dmgame.com/games/Terraria/
+
+
+共 6 页/6条记录首页 
+1
+2
+3
+4
+5
+6
+下页
+末页
+
+
+var number = 1; var totalpage = 6; var url = '3607005___p__.html';
+document.onkeyup = function(event){
+var isie = document.all ? true : false; var keycode = isie ? window.event.keyCode : event.keyCode;
+if(document.activeElement.id == "msg"){return ;}
+if(keycode == 37) { 
+if(number>2){location.href=url.replace('__p__',number-1);} 
+if(number<=2){location.href=url.replace('___p__','');} 
+}
+if(keycode == 39) { if(number<totalpage){location.href=url.replace('__p__',number+1);} }
+};
+
+您可以使用“←  →”键快速翻页
