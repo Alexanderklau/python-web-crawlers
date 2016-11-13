@@ -5,7 +5,6 @@ import re
 import sys
 import urllib.request
 import http.cookiejar
-
 temp = 0
 for x in range(1,300):
     temp += x
