@@ -11,7 +11,7 @@ req = Request(url,headers={
 })
 html = urlopen(url)
 bsObj = BeautifulSoup(html)
-for link in bsObj.findAll("a"):
+for link in bsObj.find("em").findAll("a"):
     if 'href' in link.attrs:
         href = link.attrs['href']
         print(href)
