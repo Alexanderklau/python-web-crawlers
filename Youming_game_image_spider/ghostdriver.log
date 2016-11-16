@@ -1,37 +1,12 @@
-[INFO  - 2016-11-14T04:19:01.264Z] GhostDriver - Main - running on port 48757
-[INFO  - 2016-11-14T04:19:02.190Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-11-14T04:19:02.190Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.customHeaders:  - {}
-[INFO  - 2016-11-14T04:19:02.191Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-11-14T04:19:02.191Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 78fc4460-aa21-11e6-b26d-57e3549c1fd4
-[ERROR - 2016-11-14T04:19:44.859Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.onError - msg: ReferenceError: Can't find variable: oojs
+[INFO  - 2016-11-16T12:17:51.248Z] GhostDriver - Main - running on port 42983
+[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.customHeaders:  - {}
+[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-11-16T12:17:52.162Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b23633e0-abf6-11e6-80b9-d9ee4c371a00
+[ERROR - 2016-11-16T12:17:53.344Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.onError - msg: ReferenceError: Can't find variable: $
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-11-14T04:19:44.859Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.onError - stack:
-  eval code (undefined:4)
-  eval (:0)
-  (anonymous function) (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  globalEval (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  (anonymous function) (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  each (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  domManip (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  append (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  (anonymous function) (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  access (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  html (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  success (http://pos.baidu.com/pcjm?rdid=1244913&dc=2&di=u1244913&dri=0&dis=0&dai=2&ps=1224x16&dcb=BAIDU_SSP_define&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1479097154939&ti=%E5%92%AA%E5%92%AA%E5%9B%BE%E7%A7%80-%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3-%E4%B8%9D%E8%A2%9C%E7%BE%8E%E8%85%BF&ari=2&dbv=0&drs=1&pcs=400x300&pss=992x1328&cfv=0&cpl=0&chi=1&cce=true&cec=GBK&tlm=1479059210&rw=320&ltu=http%3A%2F%2Fwww.mmkao.net%2F&ecd=1&psr=1024x768&par=1024x768&pis=-1x-1&ccd=32&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1479097182&qn=cbc2d5c2a2292668&tt=1479097154924.27095.29321.29321:5)
-  l (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  fireWith (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  T (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-  r (http://libs.baidu.com//jquery/1.8.3/jquery.min.js?_r=1_0&ich=s:2)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-11-14T04:19:44.967Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.onError - msg: TypeError: undefined is not an object (evaluating 'window[prefix].doShake')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-11-14T04:19:44.968Z] Session [78fc4460-aa21-11e6-b26d-57e3549c1fd4] - page.onError - stack:
-  (anonymous function) (http://r.5207470.com/js/mob/cpc_bottom.js:519)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-11-14T04:20:00.751Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479097200735
+[ERROR - 2016-11-16T12:17:53.344Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.onError - stack:
+  global code (http://www.ali213.net/news/js/new_chead.js:10)
 
   phantomjs://platform/console++.js:263 in error
