@@ -11,12 +11,11 @@ html = urlopen(req)
 bsObj = BeautifulSoup(html)
 for image in bsObj.findAll("img",src=re.compile("(.+?\.jpg)")):
     if 'src' in image.attrs:
-        imglist = [image.attrs['src']]
-        k = 1
-        for each in imglist:
-            fp = open(str(k)+'.jpg','wb')
-            k += 1
-            
+        imglist = []
+        imglist = image.attrs['src']
+        name = imglist[-20:]
+        file = urlretrieve(imglist,r'image/' + name)
+
 
 
 
