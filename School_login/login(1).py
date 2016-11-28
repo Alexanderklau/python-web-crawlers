@@ -59,6 +59,4 @@ def get_captcha():
     captcha = input("please input the yzmDvCode\n>")
     return captcha
 
-def isLogin():
-    url = 
 
