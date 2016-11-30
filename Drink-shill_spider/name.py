@@ -18,7 +18,7 @@ for i in range(1,1000):
         'Host':'www.jiu-tuo.com'})
     html = urlopen(req)
     bsObj = BeautifulSoup(html)
-    name = bsObj.findAll("tr")
+    name = bsObj.find('tbody').findAll('td',width=re.compile('600'))
     print(name)
 
 
