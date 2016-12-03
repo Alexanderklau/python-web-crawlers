@@ -1,6 +1,6 @@
 import sys
 from PyQt4.QtGui import *
-from PyQt4.Qtcore import *
+from PyQt4.QtCore import *
 from PyQt4.QtWebKit import *
 
 class Render(QWebPage):
@@ -28,4 +28,4 @@ tree = html.fromstring(formatted_result)
 
 # Now using correct Xpath we are fetching URL of archives
 archive_links = tree.xpath('//div[@class="campaign"]/a/@href')
-print archive_links
+print (archive_links)
