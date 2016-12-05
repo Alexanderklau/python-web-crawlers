@@ -12,7 +12,7 @@ for i in bsObj.findAll("a",href=re.compile("(book_\d)")):
         href = i.attrs['href']
         txtUrl = urlopen(href)
         UrlObj = BeautifulSoup(txtUrl)
-        for x in UrlObj.findAll("a",href=re.compile("(/book/\d/\d)$")):
+        for x in UrlObj.findAll("a",href=re.compile("^(\d)$")):
             if 'href' in x.attrs:
                 urlef = x.attrs['href']
                 print(urlef)
