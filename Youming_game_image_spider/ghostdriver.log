@@ -1,12 +1,12 @@
-[INFO  - 2016-11-16T12:17:51.248Z] GhostDriver - Main - running on port 42983
-[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.customHeaders:  - {}
-[INFO  - 2016-11-16T12:17:52.162Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-11-16T12:17:52.162Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b23633e0-abf6-11e6-80b9-d9ee4c371a00
-[ERROR - 2016-11-16T12:17:53.344Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.onError - msg: ReferenceError: Can't find variable: $
+[INFO  - 2016-12-09T11:26:51.341Z] GhostDriver - Main - running on port 55188
+[INFO  - 2016-12-09T11:26:52.268Z] Session [61df1240-be02-11e6-a2f0-ed70babd441d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-09T11:26:52.268Z] Session [61df1240-be02-11e6-a2f0-ed70babd441d] - page.customHeaders:  - {}
+[INFO  - 2016-12-09T11:26:52.268Z] Session [61df1240-be02-11e6-a2f0-ed70babd441d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-09T11:26:52.268Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 61df1240-be02-11e6-a2f0-ed70babd441d
+[ERROR - 2016-12-09T11:26:52.840Z] Session [61df1240-be02-11e6-a2f0-ed70babd441d] - page.onError - msg: ReferenceError: Can't find variable: $
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-11-16T12:17:53.344Z] Session [b23633e0-abf6-11e6-80b9-d9ee4c371a00] - page.onError - stack:
+[ERROR - 2016-12-09T11:26:52.840Z] Session [61df1240-be02-11e6-a2f0-ed70babd441d] - page.onError - stack:
   global code (http://www.ali213.net/news/js/new_chead.js:10)
 
   phantomjs://platform/console++.js:263 in error
