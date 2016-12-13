@@ -1,0 +1,70 @@
+<div class="tab-panel">
+					<div class="form">
+						<h2 id="LoginTitle" class="hd">登录163网易免费邮</h2>
+						<!--<a id="hdExtLink" href="http://mail.163.com/client/dl.html?from=mail13" target="_blank">邮箱大师APP全新推出</a>-->
+						<a target="_blank" href="http://yixin.im/?from=emailtab" style="display:none" id="hdMobExtLink">手机号码邮箱可直接登录易信</a>
+						<form target="frameforlogin" onsubmit="return indexLogin.submitForm()" id="loginForm" method="post" name="frmLogin" class="bd">
+							<input type="hidden" id="idInput">
+							<input type="hidden" name="username" id="account"><!-- ssl加密传输用户名 -->
+							<input type="hidden" id="url2" name="url2">
+							<input type="hidden" value="0" id="savelogin" name="savalogin"><!-- 兼容base 无自动登录 -->
+							<!-- 帐号 -->
+							<div id="idInputLine" class="ipt ipt-t user showPlaceholder">
+								<b class="ico"></b>
+								<input type="text" autocomplete="off" id="userNameIpt">
+								<b id="domainText" class="domain">@163.com</b>
+								<label id="idPlaceholder" class="placeholder" for="userNameIpt" style="display: block;">帐号或手机号</label>
+							</div>
+							<!-- 密码 -->
+							<div id="pwdInputLine" class="ipt ipt-t pass showPlaceholder">
+								<input type="password" id="pwdInput" name="password">
+								<button type="submit" class="btn btn-login" title="登录" id="btnSubmit"></button>
+								<label id="pwdPlaceholder" class="placeholder" for="pwdInput">密码</label>
+								<p style="display: none" id="capsLockHint">大写状态开启</p>
+							</div>
+							<!-- 相关选项 -->
+							<div class="options">
+								<label style="margin-right:56px;" class="ipt-wraper ipt-wraper-checked" for="rmbUser"><input type="checkbox" id="rmbUser" class="ipt ipt-c" tabindex="5"><b class="ico ico-checkbox"></b>记住帐号</label><label class="ipt-wraper ipt-wraper-checked" for="chkSSL"><input type="checkbox" id="chkSSL" class="ipt ipt-c" tabindex="6"><b class="ico ico-checkbox"></b>SSL安全登录<a href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac24b58ac00fa9e0658" tabindex="6" title="什么是SSL登录" target="_blank" class="help" id="lnkWhySSL"><img alt="什么是SSL登录" class="ico ico-why" src="http://mimg.127.net/p/t.gif"></a></label><label style="display:none" class="ipt-wraper" for="allSSL"><input type="checkbox" class="ipt ipt-c" id="allSSL" tabindex="6"><b class="ico ico-checkbox"></b>全程SSL</label>
+								<a target="_blank" id="forGetPassword" title="" href="http://reg.163.com/RecoverPasswd1.shtml" class="ext">忘记密码?</a>
+							</div>
+							<div style="display:none;" id="divError"></div>
+							<div id="loginFootTipsVer" class="ft" style="display: block;">
+								<span class="ft-mailver-text">邮箱版本：</span>
+								<a href="javascript:void(0);" class="ft-mailver-now" id="ftVerSelLink">
+									<span id="ftVerSelLinkTxt">默认版本&nbsp;</span>
+									<div class="ft-mailver-darr" id="ftDarr"><i style="position:absolute;height:1px;overflow:hidden;left:0px;top:0px;width:7px;"></i><i style="position:absolute;height:1px;overflow:hidden;left:1px;top:1px;width:5px;"></i><i style="position:absolute;height:1px;overflow:hidden;left:2px;top:2px;width:3px;"></i><i style="position:absolute;height:1px;overflow:hidden;left:3px;top:3px;width:1px;"></i></div>
+								</a>
+							</div>
+							<div style="display:none" id="loginFootTips" class="ft"></div>
+							<div id="loginFootTipsRight" class="ft-ext" style="display: block;"><a tabindex="9" target="_blank" href="http://reg.email.163.com/mailregAll/reg0.jsp?from=email163&amp;regPage=163">注册网易免费邮</a></div>
+							<div id="verSelect" class="ft-verSelect" style="display: none;">
+								<div id="verSelectUl" class="ft-verSelect-inner">
+									<ul>
+										<li>
+											<a onclick="indexLogin.verSelect(-1);" href="javascript:void(0)" class="ft-verSelect-inner-a ft-verSelect-inner-a-selected" id="styleConf-1">默认版本&nbsp;</a>
+										</li>
+										<li>
+											<a onclick="indexLogin.verSelect(7);" href="javascript:void(0)" class="ft-verSelect-inner-a" id="styleConf7">网易邮箱6.0版</a>
+										</li>
+										<li>
+											<a onclick="indexLogin.verSelect(6);" href="javascript:void(0)" class="ft-verSelect-inner-a" id="styleConf6">网易邮箱6.0简约版</a>
+										</li>
+										<!--<li>-->
+											<!--<a id="styleConf2" class="ft-verSelect-inner-a" href="javascript:void(0);" onclick="indexLogin.verSelect(2)">青柠校园邮箱</a>-->
+										<!--</li>-->
+									</ul>
+									<b class="ft-verSelect-tick" id="verSelectTick" style="top: 5px;"><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:10px;top:3px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:9px;top:4px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:10px;top:4px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:8px;top:5px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:9px;top:5px;width:2px;"></i><i class="icoTick-color3" style="position:absolute;height:1px;overflow:hidden;left:2px;top:6px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:3px;top:6px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:4px;top:6px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:7px;top:6px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:8px;top:6px;width:2px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:10px;top:6px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:2px;top:7px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:3px;top:7px;width:2px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:5px;top:7px;width:2px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:7px;top:7px;width:2px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:9px;top:7px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:3px;top:8px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:4px;top:8px;width:4px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:8px;top:8px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:4px;top:9px;width:1px;"></i><i class="icoTick-color2" style="position:absolute;height:1px;overflow:hidden;left:5px;top:9px;width:2px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:7px;top:9px;width:1px;"></i><i class="icoTick-color1" style="position:absolute;height:1px;overflow:hidden;left:5px;top:10px;width:2px;"></i></b>
+								</div>
+							</div>
+						</form>
+						<div class="mailApp">
+							<a target="_blank" href="http://mail.163.com/client/dl.html?from=mail13" class="mailApp-logo"></a>
+							<!--<a class="mailApp-link" href="http://mail.163.com/client/dl.html?from=mail13" target="_blank">立即下载</a>-->
+						</div>
+					</div>
+					<b class="ico ico-arr tab-panel-locat"></b>
+					<span class="shadow shadow-bottom">&nbsp;</span>
+					<span class="shadow shadow-top">&nbsp;</span>
+					<span class="shadow shadow-left">&nbsp;</span>
+					<span class="shadow shadow-right">&nbsp;</span>
+				</div>
