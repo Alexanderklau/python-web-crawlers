@@ -13,6 +13,7 @@ bsObj = BeautifulSoup(html)
 for link in bsObj.find("div",{"id":"container"}).findAll("a",href=re.compile("^(http://)")):
     if 'href' in link.attrs:
         href = link.attrs['href']
+        print(href)
         imageUrl = Request(href,headers=headers)
         down = urlopen(imageUrl)
         load = BeautifulSoup(down)
