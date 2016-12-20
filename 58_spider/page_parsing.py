@@ -24,11 +24,24 @@ def get_links_from(channel,pages,who_sells=0):
 def get_item_info(url):
     wb_data = requests.get(url)
     soup = BeautifulSoup(wb_data.text,'lxml')
-    title = soup.titie.text
-    price = soup.select('span.price c_f50')[0].text
-    date = soup.select('li.time')[0].text
-    area = list(soup.select('.c_25d a')[0].stripped_strings) if soup.find_all('span','c_25d') else None
-    item_info.insert_one({'title':title,'price':price,'date':date,'area':area})
+    not_loger_list = '404' in soup.find('script', type="text/javascript").get('src').split('/')
+    if not_loger_list:
+        pass
+    else:
+        title = soup.title.text
+        price = soup.select('span.price.c_f50')[0].text
+        date = soup.select('li.time')[0].text
+        area = list(soup.select('span.c_25d > a[href^="/"]')[0].stripped_strings) if soup.find_all('span','c_25d') else None
+        item_info.insert_one({'title':title,'price':price,'date':date,'area':area})
+        print({'title':title,'price':price,'date':date,'area':area})
+
+get_item_info('http://cd.58.com/bijibendiannao/27282149503688x.shtml')
+
+
+
+
+
+
 
 
 
