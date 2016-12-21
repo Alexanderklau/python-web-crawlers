@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -23,6 +24,7 @@ def get_links_from(channel,pages,who_sells=0):
 
 def get_item_info(url):
     wb_data = requests.get(url)
+    wb_data.encoding = 'utf-8'
     soup = BeautifulSoup(wb_data.text,'lxml')
     not_loger_list = '404' in soup.find('script', type="text/javascript").get('src').split('/')
     if not_loger_list:
@@ -35,7 +37,6 @@ def get_item_info(url):
         item_info.insert_one({'title':title,'price':price,'date':date,'area':area})
         print({'title':title,'price':price,'date':date,'area':area})
 
-get_item_info('http://cd.58.com/bijibendiannao/27282149503688x.shtml')
 
 
 
