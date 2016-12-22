@@ -12,7 +12,6 @@ def Find_urls(url):
 
 Url_list = """
     http://cd.58.com/shouji/
-    http://cd.58.com/tongxunyw/
     http://cd.58.com/danche/
     http://cd.58.com/fzixingche/
     http://cd.58.com/diandongche/
@@ -68,8 +67,6 @@ Url_list = """
     http://cd.58.com/chengren/
     http://cd.58.com/xiaoyuan/
     http://cd.58.com/ershouqiugou/
-    http://cd.58.com/tiaozao/
-    http://cd.58.com/tiaozao/
     http://cd.58.com/tiaozao/
 """
 Find_urls(start_urls)

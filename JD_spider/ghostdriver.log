@@ -1,0 +1,19 @@
+[INFO  - 2016-12-22T11:55:47.498Z] GhostDriver - Main - running on port 47145
+[INFO  - 2016-12-22T11:55:48.419Z] Session [9411bed0-c83d-11e6-8643-77812c762c04] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0 ","webSecurityEnabled":true}
+[INFO  - 2016-12-22T11:55:48.419Z] Session [9411bed0-c83d-11e6-8643-77812c762c04] - page.customHeaders:  - {}
+[INFO  - 2016-12-22T11:55:48.420Z] Session [9411bed0-c83d-11e6-8643-77812c762c04] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0 "}
+[INFO  - 2016-12-22T11:55:48.420Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9411bed0-c83d-11e6-8643-77812c762c04
+[ERROR - 2016-12-22T11:55:49.286Z] Session [9411bed0-c83d-11e6-8643-77812c762c04] - page.onError - msg: ReferenceError: Can't find variable: version
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-22T11:55:49.286Z] Session [9411bed0-c83d-11e6-8643-77812c762c04] - page.onError - stack:
+  isHitVersion (https://static.360buyimg.com/devfe/list/1.0.0/js/abtest.js:2)
+  (anonymous function) (https://static.360buyimg.com/devfe/list/1.0.0/js/??filter.js,jdList.js,expands.js:4)
+  callback (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+  onload (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+  onload (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+  load (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+  d (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+  f (https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,product/list/js/responsive.js:6)
+
+  phantomjs://platform/console++.js:263 in error
