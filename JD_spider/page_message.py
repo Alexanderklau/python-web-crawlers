@@ -17,8 +17,7 @@ dcap["phantomjs.page.settings.userAgent"] = (
 drive = webdriver.PhantomJS(executable_path='/usr/bin/phantomjs',
                             desired_capabilities=dcap)
 
-print(drive.get(url))
-
+drive.get(url)
 # soup = BeautifulSoup(wb_data.text,'lxml')
 # name = soup.select('div.p-name > a > em')
 # price = soup.select('strong.J_price > i')
