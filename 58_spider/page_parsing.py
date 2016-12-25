@@ -18,11 +18,11 @@ def get_links_from(channel,pages):
     if soup.find('td','t'):
         for link in soup.select('td.t > a.t'):
             item_link = link.get('href').split('?')[0]
-            #url_list.insert_one({'url':item_link})
+            url_list.insert_one({'url':item_link})
             print(item_link)
     else:
         pass
-get_links_from('http://cd.58.com/danche/',2)
+# get_links_from('http://cd.58.com/danche/',2)
 
 def get_item_info(url):
     wb_data = requests.get(url)
@@ -31,10 +31,10 @@ def get_item_info(url):
     title = soup.select('h1.info_titile')[0].text
     price = soup.select('span.price_now')[0].text
     area = list(soup.select('div.palce_li')[0].stripped_strings) if soup.find_all('div','palce_li') else None
-    item_info.insert_one({'title':title,'price':price,'area':area})
+    item_info.insert_one({'title':title,'price':price,'area':area,'url':url})
 
 
-
+get_item_info('http://zhuanzhuan.58.com/detail/812125933281116162z.shtml')
 
 
 
