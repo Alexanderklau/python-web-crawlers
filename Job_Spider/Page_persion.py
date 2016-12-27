@@ -33,24 +33,26 @@ def job_page(channel,pages):
     # print(Job_name)
 
 def Job_message(url):
-    wb_data = requests.get(url,headers=headers)
+    wb_data = requests.get(url,headers=headers,proxies = proxies)
     soup = BeautifulSoup(wb_data.text,'lxml')
-    Job_name = soup.select('span.name')[0].text
-    Job_company = soup.select('div.company')[0].text
-    Job_price = soup.select('span.salary')[0].text
+    Job_name = soup.select('span.name')[0].text if soup.find_all('span','name') else None
+    Job_company = soup.select('div.company')[0].text if soup.find_all('div','company') else None
+    Job_price = soup.select('span.salary')[0].text if soup.find_all('span','salary') else None
     Job_date = soup.select('p.publish_time')[0].text
-    Job_area = list(soup.select('div.work_addr')[0].stripped_strings)
+    Job_area = list(soup.select('div.work_addr')[0].stripped_strings) if soup.find_all('div','work_addr') else None
     Job_info.insert_one({'Job_name':Job_name,
                          'Job_company':Job_company,
                          'Job_price':Job_price,
                          'Job_date':Job_date,
                          'Job_area':Job_area,
                          'url':url})
-
-
-
-
-#job_page('https://www.lagou.com/zhaopin/Java/',2)
+    print({'Job_name':Job_name,
+                         'Job_company':Job_company,
+                         'Job_price':Job_price,
+                         'Job_date':Job_date,
+                         'Job_area':Job_area,
+                         'url':url})
+# Job_message('http://www.lagou.com/jobs/1475498.html')
 
 
 

@@ -13,7 +13,6 @@ def get_links_from(channel,pages):
     #cd.58.com/danche/pn2/
     list_view = '{}/pn{}'.format(channel,str(pages))
     wb_data = requests.get(list_view)
-    time.sleep(1)
     soup = BeautifulSoup(wb_data.text,'lxml')
     if soup.find('td','t'):
         for link in soup.select('td.t > a.t'):
@@ -28,13 +27,15 @@ def get_item_info(url):
     wb_data = requests.get(url)
     wb_data.encoding = 'utf-8'
     soup = BeautifulSoup(wb_data.text,'lxml')
+    time.sleep(1)
     title = soup.select('h1.info_titile')[0].text
-    price = soup.select('span.price_now')[0].text
-    area = list(soup.select('div.palce_li')[0].stripped_strings) if soup.find_all('div','palce_li') else None
+    price = soup.select('span.price_now')[0].text if soup.find_all('span','price_now') else None
+    area = list(soup.select('div.palce_li > span > i')[0].stripped_strings) if soup.find_all('div','palce_li') else None
     item_info.insert_one({'title':title,'price':price,'area':area,'url':url})
+    print({'title':title,'price':price,'area':area,'url':url})
 
 
-get_item_info('http://zhuanzhuan.58.com/detail/812125933281116162z.shtml')
+# get_item_info('http://zhuanzhuan.58.com/detail/812125933281116162z.shtml')
 
 
 
