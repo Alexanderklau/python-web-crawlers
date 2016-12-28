@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import pymongo
+import re
 
 client = pymongo.MongoClient('localhost', 27017)
 ceshi = client['ceshi']
@@ -20,13 +21,13 @@ def get_links_from(channel, pages, who_sells=0):
     if soup.find('td', 't'):
         for link in soup.select('td.t a.t'):
             item_link = link.get('href').split('?')[0]
-            url_list.insert_one({'url': item_link})
+            # url_list.insert_one({'url': item_link})
             print(item_link)
             # return urls
     else:
         # It's the last page !
         pass
-
+get_links_from('http://cd.58.com/diannao/',1)
 # spider 2
 def get_item_info(url):
     wb_data = requests.get(url)
