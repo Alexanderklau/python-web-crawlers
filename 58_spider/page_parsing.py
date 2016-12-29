@@ -37,7 +37,7 @@ def get_item_info(url):
     item_info.insert_one({'title':title,'price':price,'area':area,'url':url})
     print({'title':title,'price':price,'area':area,'url':url})
 
-
+# get_item_info('http://zhuanzhuan.58.com/detail/813641600154550276z.shtml')
 
 
 
