@@ -15,5 +15,5 @@ for i in range(1,10):
     title = soup.select('div.tit')
     date = soup.find_all(text=re.compile(u'更新日期'))
     language = soup.find_all(text=re.compile(u'游戏类型'))
-    
+
 
