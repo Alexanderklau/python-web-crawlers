@@ -15,4 +15,4 @@ data = {
     'area' :area[0].text,
     'title':title
 }
-print(data)
+# print(data)

@@ -7,6 +7,7 @@ wb_data = requests.get(url)
 wb_data.encoding = 'utf-8'
 soup = BeautifulSoup(wb_data.text,'lxml')
 title = soup.select('li.box > em')
+print(type(title))
 image = soup.select('img')
 href = soup.select('li.box > a')
 for title,image,href in zip(title,image,href):
@@ -15,5 +16,5 @@ for title,image,href in zip(title,image,href):
         'image' :image.get('src'),
         'href'  :href.get('href'),
     }
-    print(data)
+    # print(data)
 #print(soup)

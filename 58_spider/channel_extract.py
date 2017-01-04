@@ -6,9 +6,10 @@ def Find_urls(url):
     wb_data = requests.get(start_urls)
     soup = BeautifulSoup(wb_data.text,'lxml')
     links = soup.select('ul.ym-submnu > li > b > a')
+    print(type(links))
     for link in links:
         page_url = 'http://cd.58.com' + link.get('href')
-        print(page_url)
+        # print(page_url)
 
 Url_list = """
     http://cd.58.com/shouji/

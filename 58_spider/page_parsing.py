@@ -31,13 +31,14 @@ def get_item_info(url):
     soup = BeautifulSoup(wb_data.text,'lxml')
     time.sleep(1)
     title = soup.select('h1.info_titile')[0].text
+    print(type(title))
     price = soup.select('span.price_now')[0].text if soup.find_all('span','price_now') else None
     # area = list(map(lambda x:x.text,soup.select('div.palce_li > span > i'))),
     area = list(soup.select('div.palce_li > span > i')[0].stripped_strings) if soup.find_all('div','palce_li') else None
-    item_info.insert_one({'title':title,'price':price,'area':area,'url':url})
+    # item_info.insert_one({'title':title,'price':price,'area':area,'url':url})
     print({'title':title,'price':price,'area':area,'url':url})
 
-# get_item_info('http://zhuanzhuan.58.com/detail/813641600154550276z.shtml')
+get_item_info('http://zhuanzhuan.58.com/detail/813641600154550276z.shtml')
 
 
 
