@@ -5,12 +5,15 @@ import time
 import requests
 from urllib.request import urlopen
 import pymongo
+client = pymongo.MongoClient('localhost',27017)
+Game = client['Game']
+message = Game['GameMessage']
 headers = {
     'User-Agent':'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0',
     'Accept':'*/*',
     'Accept-Encoding':'gzip, deflate',
     'Accept-Language':'en-US,en;q=0.5',}
-for i in range(1,12):
+for i in range(1,300):
     wb_date = requests.get('http://down.gamersky.com/page/pc/0-0-0-0-0-0-0-00_' + str(i) + '.html',headers=headers)
     soup = BeautifulSoup(wb_date.text,'lxml')
     title = soup.select('div.tit')
@@ -36,15 +39,7 @@ for i in range(1,12):
         star = js['Average']
         data['star'] = star
         time.sleep(3)
-        print(data)
-
-
-
-
-
-
-
-
+        # message.insert_one(data)
     # GameID = ID.get('data-generalid')
     # print(GameID)
 
