@@ -23,14 +23,4 @@ http://www.mmkao.net/NAKED-ART/
 http://www.mmkao.net/PANS/
 http://www.mmkao.net/3Agirl/
 """
-type_list = """
-Beautyleg/
-RQ-STAR/
-ROSI/
-ligui/
-4K-Star/
-DISI/
-NAKED-ART/
-PANS/
-3Agirl/
-"""
+
