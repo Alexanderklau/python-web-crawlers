@@ -37,8 +37,37 @@ def get_links_from(channel,pages):
         tx = re.findall(ID, title)
         str1 = ""
         str1 = str1.join(tx)
-        if str1[0] == '0':
-            str2 = str1.strip('0')
-            GirlID.insert_one({'ID': str2})
+        if len(str1) >= 4:
+            a = str1[0]
+            b = str1[1]
+            c = str1[2]
+            if a == '0' and b == '0' and c == '0':
+                d = str1.replace(c, ' ')
+                print(d)
+            elif a == '0' and b == '0':
+                d = str1.replace(b, ' ')
+                print(d)
+            elif a == '0':
+                d = str1.replace(a, ' ')
+                print(d)
+            else:
+                print(str1)
+        elif len(str1) == 3:
+            a = str1[0]
+            b = str1[1]
+            if a == '0' and b == '0':
+                d = str1.replace(b,' ')
+                print(d)
+            elif a == '0':
+                d = str1.replace(a,' ')
+                print(d)
+            else:
+                print(str1)
         else:
-            GirlID.insert_one({'ID': str1})
+            print(str1)
+
+        # if str1[0] == '0':
+        #     str2 = str1.strip('0')
+        #     GirlID.insert_one({'ID': str2})
+        # else:
+        #     GirlID.insert_one({'ID': str1})
