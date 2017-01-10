@@ -43,13 +43,13 @@ def get_links_from(channel,pages):
             c = str1[2]
             if a == '0' and b == '0' and c == '0':
                 d = str1.replace(c, ' ')
-                print(d)
+                print(d.split())
             elif a == '0' and b == '0':
                 d = str1.replace(b, ' ')
-                print(d)
+                print(d.split())
             elif a == '0':
                 d = str1.replace(a, ' ')
-                print(d)
+                print(d.split())
             else:
                 print(str1)
         elif len(str1) == 3:
@@ -57,10 +57,10 @@ def get_links_from(channel,pages):
             b = str1[1]
             if a == '0' and b == '0':
                 d = str1.replace(b,' ')
-                print(d)
+                print(d.split())
             elif a == '0':
                 d = str1.replace(a,' ')
-                print(d)
+                print(d.split())
             else:
                 print(str1)
         else:

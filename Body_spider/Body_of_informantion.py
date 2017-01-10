@@ -5,7 +5,6 @@ import time
 import json
 import thread
 import re
-
 class Spider_Model:
     def __init__(self):
         self.page = 1
