@@ -15,7 +15,7 @@ def job_page(channel,pages):
     # https://www.lagou.com/zhaopin/Java/2/
     # https://www.lagou.com/zhaopin/Java/
     list_view = '{}{}'.format(channel, str(pages))
-    time.sleep(1)
+    time.sleep(2)
     wb_data = requests.get(list_view, headers=headers,proxies=proxies)
     soup = BeautifulSoup(wb_data.text, 'lxml')
     if soup.find('a','position_link'):
@@ -38,7 +38,7 @@ def Job_message(url):
     Job_name = soup.select('span.name')[0].text if soup.find_all('span','name') else None
     Job_company = soup.select('div.company')[0].text if soup.find_all('div','company') else None
     Job_price = soup.select('span.salary')[0].text if soup.find_all('span','salary') else None
-    Job_date = soup.select('p.publish_time')[0].text
+    Job_date = soup.select('p.publish_time')[0].text if soup.find_all('p','publish_time') else None
     Job_area = list(soup.select('div.work_addr')[0].stripped_strings) if soup.find_all('div','work_addr') else None
     Job_info.insert_one({'Job_name':Job_name,
                          'Job_company':Job_company,

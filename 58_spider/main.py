@@ -16,8 +16,8 @@ def get_all_links_from(channel):
 if __name__ == '__main__':
     pool = Pool()
     # pool = Pool(processes=6)
-    pool.map(get_all_links_from,Url_list.split())
-    # pool.map(get_item_info, x)
+    # pool.map(get_all_links_from,Url_list.split())
+    pool.map(get_item_info, x)
     pool.close()
     pool.join()
     connect = False
