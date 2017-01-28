@@ -6,11 +6,11 @@ import urllib.request
 loginUrl = 'https://accounts.douban.com/login'
 
 formData = {
-    'redir':'https://www.douban.com/people/148470280/',
+    'redir':'##########',
     'source':None,
     'login':u'登录',
-    'form_email':13399904390,
-    'form_password':13999510103
+    'form_email':'###########',
+    'form_password':'#########'
 }
 headers = {
     "User-Agent":'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',

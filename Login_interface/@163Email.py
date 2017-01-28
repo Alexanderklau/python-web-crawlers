@@ -90,9 +90,6 @@ def getInBox(self):
             content = Djson.decode(res)['resultVar']
             time.sleep(3)
             return content
-    '''
-        Demon
-    '''
     # 初始化
 mail163 = Email163()
     # 登录

@@ -30,5 +30,5 @@ def login(par1):
 
 xsrf = get_xsrf()
 print("_xsrf的值是：" + xsrf)
-data = {"email": "***********", "password": "*********", "_xsrf": xsrf}
+data = {"email": "13281101982", "password":"lwb13999510103", "_xsrf": xsrf}
 print(login(data))

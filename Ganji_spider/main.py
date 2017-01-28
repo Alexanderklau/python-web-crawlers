@@ -13,7 +13,7 @@ def get_all_links_from(channel):
         get_links(channel,i)
 
 if __name__ == '__main__':
-    pool = Pool(processes=6)
+    pool = Pool(processes=10)
     pool.map(get_all_links_from,url_list.split())
-    # pool.close()
-    # pool.join()
+    pool.close()
+    pool.join()

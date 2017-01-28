@@ -40,6 +40,7 @@ def get_links(channel,pages,who_sells = 'o'):
 
 def article_message(url):
     wb_data = requests.get(url,headers=headers,proxies=proxies)
+    time.sleep(2)
     soup = BeautifulSoup(wb_data.text,'lxml')
     data = {
         'title':soup.select('h1.info_titile')[0].text,
