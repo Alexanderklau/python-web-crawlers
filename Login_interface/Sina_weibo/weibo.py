@@ -1,19 +1,71 @@
 # -*-coding:utf-8 -*- 
 __author__ = 'Yemilice_lau'
+import json
+import base64
 import requests
-from bs4 import BeautifulSoup
-from lxml import etree
-from multiprocessing.dummy import Pool
-cook = {'Cookie':"SCF=AvIj3yrfnwmJSAXz4ENJsho6C_7O8YU4aNH2g7ezF7WH9K2VbS8zpqN4B_-HtlwDio4UCqdksk9wC_6L2kU40Gk.; expires=Tue, 02 Feb 2027 13:07:31 GMT; path=/; domain=.sina.cn; HttpOnly"}
-url = 'http://weibo.cn/?tf=5_009&vt=4'
-# html = requests.get(url).content
-# print(html)
-html = requests.get(url,cookies = cook).content
-bsobj = BeautifulSoup(html)
-print(bsobj)
-# https://login.weibo.cn/login/?ns=1&revalid=2&backURL=http%3A%2F%2Fweibo.cn%2F&backTitle=%CE%A2%B2%A9&vt=4
+try:
+    import cookielib
+except:
+    import http.cookiejar as cookielib
+"""
+输入你的微博账号和密码，可去淘宝买，一元七个。
+建议买几十个，微博限制的严，太频繁了会出现302转移。
+或者你也可以把时间间隔调大点。
+"""
+myWeiBo = [
+    {'no': '13399904390', 'psw': '13999510103'},
+    # {'no': 'shudieful3618@163.com', 'psw': 'a123456'},
+]
 
+session = requests.session()
+session.cookies = cookielib.LWPCookieJar(filename='cookies')
+try:
+    session.cookies.load(ignore_discard=True)
+except:
+    print("Cookie 未能加载")
 
+def getCookies(weibo):
+    """ 获取Cookies """
+    cookies = []
+    loginURL = r'https://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.15)'
+    for elem in weibo:
+        account = elem['no']
+        password = elem['psw']
+        username = base64.b64encode(account.encode('utf-8')).decode('utf-8')
+        postData = {
+            "entry": "sso",
+            "gateway": "1",
+            "from": "null",
+            "savestate": "30",
+            "useticket": "0",
+            "pagerefer": "",
+            "vsnf": "1",
+            "su": username,
+            "service": "sso",
+            "sp": password,
+            "sr": "1440*900",
+            "encoding": "UTF-8",
+            "cdult": "3",
+            "domain": "sina.com.cn",
+            "prelt": "0",
+            "returntype": "TEXT",
+        }
+        session = requests.Session()
+        r = session.post(loginURL, data=postData)
+        print(r)
+#     #     jsonStr = r.content.decode('gbk')
+#     #     info = json.loads(jsonStr)
+#     #     if info["retcode"] == "0":
+#     #         print("Get Cookie Success!( Account:%s )" % account)
+#     #         cookie = session.cookies.get_dict()
+#     #         cookies.append(cookie)
+#     #     else:
+#     #         print("Failed!( Reason:%s )" % info['reason'])
+#     # return cookies
+#
+#
+# cookies = getCookies(myWeiBo)
+# print ("Get Cookies Finish!( Num:%d)" % len(cookies))
 
 
 

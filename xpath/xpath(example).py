@@ -14,3 +14,4 @@ headers = {
 html = requests.get(url,headers=headers)
 selector = etree.HTML(html.text)
 title = selector.xpath('//title/text()')
+print(title)

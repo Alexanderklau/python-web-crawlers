@@ -35,6 +35,7 @@ def job_page(channel,pages):
 def Job_message(url):
     wb_data = requests.get(url,headers=headers,proxies = proxies)
     soup = BeautifulSoup(wb_data.text,'lxml')
+    time.sleep(2)
     Job_name = soup.select('span.name')[0].text if soup.find_all('span','name') else None
     Job_company = soup.select('div.company')[0].text if soup.find_all('div','company') else None
     Job_price = soup.select('span.salary')[0].text if soup.find_all('span','salary') else None

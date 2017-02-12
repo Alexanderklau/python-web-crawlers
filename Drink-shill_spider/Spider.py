@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-import urllib2
+from urllib.request import *
 import urllib
 import re
-import thread
+import _thread
 import time
 import json
 
@@ -20,8 +20,8 @@ class Spider_Model:#定义一个爬虫模块
         myUrl = "http://www.jiu-tuo.com/list-jiutuo--" + page
         user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
         headers = {'User-Agent': user_agent}
-        req = urllib2.Request(myUrl, headers=headers)#指定固定的域名，发送请求
-        myResponse = urllib2.urlopen(req)#响应请求
+        req = Request(myUrl, headers=headers)#指定固定的域名，发送请求
+        myResponse = urlopen(req)#响应请求
         myPage = myResponse.read()#读取请求
         # print myPage  
         unicodePage = myPage.decode("utf-8")
@@ -46,7 +46,7 @@ class Spider_Model:#定义一个爬虫模块
                     self.page += 1
                     self.pages.append(myPage)
                 except:
-                    print '无法链接！'
+                    print('无法链接！')
             else:
                 time.sleep(5)
 
@@ -59,7 +59,7 @@ class Spider_Model:#定义一个爬虫模块
         # print len(nowPage)  
         for i in range(0, len(nowPage)):
             if i < len(nowPage):
-                print u'第%d页,第%d个案例' % (page, i), nowPage[i].replace("\n\n", "")
+                print (u'第%d页,第%d个案例' % (page, i), nowPage[i].replace("\n\n", ""))
                 i += 1
             else:
                 break
@@ -67,9 +67,9 @@ class Spider_Model:#定义一个爬虫模块
     def Start(self):
         self.enable = True
         page = self.page
-        print u'正在加载中请稍候......'
+        print (u'正在加载中请稍候......')
         # 新建一个线程在后台加载段子并存储      
-        thread.start_new_thread(self.LoadPage, ())
+        _thread.start_new_thread(self.LoadPage, ())
         # ----------- 加载处理 -----------
         while self.enable:
             # 如果self的page数组中存有元素      
@@ -83,7 +83,7 @@ class Spider_Model:#定义一个爬虫模块
                 # ----------- 程序的入口处 -----------
 
 
-print u"""
+print( u"""
 ---------------------------------------   
    程序：爬虫
    版本：0.3   
@@ -93,9 +93,9 @@ print u"""
    操作：输入quit退出
    功能：按下回车依次浏览热点
 ---------------------------------------   
-"""
+""")
 
-print u'请按下回车浏览今日内容：'
-raw_input(' ')
+print (u'请按下回车浏览今日内容：')
+input(' ')
 myModel = Spider_Model()
 myModel.Start()      

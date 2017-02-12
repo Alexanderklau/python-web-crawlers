@@ -12,8 +12,8 @@ def get_links_from(channel):
 
 if __name__ == '__main__':
     pool = Pool()
-    # pool.map(Job_message,x)
-    pool.map(get_links_from,Url_list.split())
+    pool.map(Job_message,x)
+    # pool.map(get_links_from,Url_list.split())
     pool.close()
     pool.join()
     connect=False

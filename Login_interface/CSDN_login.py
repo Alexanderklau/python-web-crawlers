@@ -30,9 +30,8 @@ response = opener.open('https://passport.csdn.net', data=postData)
 text = response.read().decode('utf-8', 'ignore')
 # print(text)  
 # exit()  
-tools.log(text, 'csdn_login.html')
+tools.logs(text, 'csdn_login.html')
 
 response2 = opener.open('http://my.csdn.net/my/mycsdn')
 text2 = response2.read().decode('utf-8', 'ignore')
-tools.log(text2, 'csdn_mycsdn.html')
-
+tools.logs(text2, 'csdn_mycsdn.html')
