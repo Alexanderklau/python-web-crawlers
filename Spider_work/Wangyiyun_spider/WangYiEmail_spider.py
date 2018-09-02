@@ -25,8 +25,8 @@ posturl = "https://mail.163.com/entry/cgi/ntesdoor?df=mail163_letter&from=web&fu
 #发送表单数据
 postdata = urlencode(
     {
-    "username":"13281101982@163.com",
-    "password":"lwb13999510103"
+    "username":"xxxxxxxxxxxxxxxx",
+    "password":"xxxxxxxxxxxxxxxxxxxxx"
     }
 )
 

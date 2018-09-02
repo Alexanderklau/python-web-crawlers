@@ -11,10 +11,10 @@ driver.maximize_window()
 driver.find_element_by_id("lbNormal").click()
 time.sleep(3)
 
-driver.find_element_by_class_name("u-input box").send_keys("13281101982")
+driver.find_element_by_class_name("u-input box").send_keys("xxxx")
 time.sleep(3)
 
-driver.find_element_by_name("j-inputtext dlpwd").send_keys("lwb13999510103")
+driver.find_element_by_name("j-inputtext dlpwd").send_keys("xxxxxxxxx")
 driver.find_element_by_id("dologin").send_keys(Keys.ENTER)
 time.sleep(3)
 
