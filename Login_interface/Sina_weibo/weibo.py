@@ -1,4 +1,4 @@
-# -*-coding:utf-8 -*- 
+# -*-coding:utf-8 -*-
 __author__ = 'Yemilice_lau'
 import json
 import base64
@@ -13,7 +13,7 @@ except:
 或者你也可以把时间间隔调大点。
 """
 myWeiBo = [
-    {'no': '13399904390', 'psw': '13999510103'},
+    {'no': 'xxxxxxxxx', 'psw': 'xxxxxxxxx'},
     # {'no': 'shudieful3618@163.com', 'psw': 'a123456'},
 ]
 
