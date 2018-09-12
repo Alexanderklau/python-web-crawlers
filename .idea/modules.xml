@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../python-project/.idea/python-project.iml" filepath="$PROJECT_DIR$/../python-project/.idea/python-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-web-crawlers.iml" filepath="$PROJECT_DIR$/.idea/python-web-crawlers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../scrapy-spider-project/.idea/scrapy-spider-project.iml" filepath="$PROJECT_DIR$/../scrapy-spider-project/.idea/scrapy-spider-project.iml" />
     </modules>
   </component>
 </project>
