@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c479f93-17df-4c6a-9556-d43978ea9ac7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mainstream_web_spider/网站.md" />
-      <change beforePath="$PROJECT_DIR$/Mainstream_web_spider/data collection/Acquire site data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Mainstream_web_spider/data collection/Acquire site.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Mainstream_web_spider/data collection/acquire data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Mainstream_web_spider/data collection/wiki data collection.py" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Mainstream_web_spider/Zhihu/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Mainstream_web_spider/网站.md" afterPath="$PROJECT_DIR$/Mainstream_web_spider/网站.md" />
     </list>
     <ignored path="python-web-crawlers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,11 +72,21 @@
         <entry file="file://$PROJECT_DIR$/Mainstream_web_spider/网站.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="372">
-                <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <first_editor relative-caret-position="248">
+                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mainstream_web_spider/Zhihu/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,6 +173,12 @@
               <item name="python-web-crawlers" type="462c0819:PsiDirectoryNode" />
               <item name="Mainstream_web_spider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-web-crawlers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-web-crawlers" type="462c0819:PsiDirectoryNode" />
+              <item name="Mainstream_web_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="Taobao" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,6 +201,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mainstream_web_spider/Zhihu" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Mainstream_web_spider/Zhihu" />
       <recent name="$PROJECT_DIR$/Mainstream_web_spider/Taobao" />
@@ -534,7 +551,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30227003" sideWeight="0.4827027" order="2" side_tool="false" content_ui="tabs" x="960" y="28" width="961" height="1019" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32616487" sideWeight="0.49783784" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4513889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4513889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18589744" sideWeight="0.48746082" order="0" side_tool="false" content_ui="combo" x="788" y="101" width="343" height="872" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -887,11 +904,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mainstream_web_spider/58/58_spider/channel_extract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mainstream_web_spider/Zhihu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Mainstream_web_spider/网站.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="372">
-            <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <first_editor relative-caret-position="248">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
