@@ -29,4 +29,5 @@
 ### 2018-10-09更新
 1. 添加了多线程爬虫逻辑,换xpath或者是url即用（Spider_frame）
 2. 添加了多进程爬虫逻辑，同上（Spider_frame）
-3. 添加反爬方式几种（Spider_frame）
+3. 添加了协程爬虫逻辑
+4. 添加反爬方式几种（Spider_frame）
