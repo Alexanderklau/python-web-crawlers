@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5812CC8D83B4CE7B21B9BC91</RequestId>
-  <HostId>img.tvmao.com</HostId>
-  <Key>stills/star/4/5/b/386x580_1.jpg</Key>
-</Error>
