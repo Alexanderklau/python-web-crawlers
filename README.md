@@ -59,3 +59,6 @@
 
 ### 2019-03-24 UPDATE
 1.Update Ajax抓取
+
+### 2019-04-14 UPDATE
+1.Update 猫眼电影数据排行（爬虫基础）
