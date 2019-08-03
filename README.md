@@ -67,3 +67,11 @@
 1. Update 爬虫基础包的使用方法
 2. Update bs4, xpath, re等包的使用方法
 3. Update 反爬技术项目
+
+### 2019-07-27 UPDATE
+1. UPDATE 网易云音乐login
+2. UPDATE 网易云音乐Download
+
+
+### 20190-08-03 UPDATE
+1. UPDATE 新浪微博login
