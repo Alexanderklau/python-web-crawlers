@@ -69,9 +69,10 @@
 3. Update 反爬技术项目
 
 ### 2019-07-27 UPDATE
-1. UPDATE 网易云音乐login
-2. UPDATE 网易云音乐Download
+1. UPDATE 网易云音乐Download
 
 
 ### 20190-08-03 UPDATE
-1. UPDATE 新浪微博login
+1. 添加验证码识别逻辑（opencv）
+2. 添加验证码识别逻辑（CNN算法优化）
+3. 添加验证码识别逻辑 （PIL）
