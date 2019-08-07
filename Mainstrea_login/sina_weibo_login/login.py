@@ -41,7 +41,7 @@ def login_sina():
     }
 
     try:
-        r = session.post(login_url, hearsers=hearsers, data=data)
+        r = session.post(login_url, headers=hearsers, data=data)
         r.raise_for_status()
     except:
         print("login error!")
