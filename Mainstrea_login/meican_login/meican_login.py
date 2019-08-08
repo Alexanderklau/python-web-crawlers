@@ -43,9 +43,9 @@ def save_cookie():
     # Login need data
 
     data = {
-        "username": "xxxxxxxxxxxxxxxxxxx",
+        "username": "xxxxxxxxxxx",
         "loginType": "username",
-        "password": "xxxxxxxxxxxx",
+        "password": "xxxxxxxxxxx",
         "remember": "true"
     }
 
@@ -88,12 +88,13 @@ def order_action():
     menu_list = get_menu()
     menu_id = choice(menu_list)["id"]
     target_time = str(datetime.date.today()) + " " + "09:40"
+    x = str([{"count":1,"dishId":menu_id}])
+    y = str([{"dishId":menu_id,"remark":""}])
 
     data = {
-        "corpAddressRemark":"",
         "corpAddressUniqueId": addrid,
-        "order": [{"count":1,"dishId":menu_id}],
-        "remarks": [{"dishId":menu_id,"remark":""}],
+        "order": x,
+        "remarks": y,
         "tabUniqueId": uuid,
         "targetTime":target_time,
         "userAddressUniqueId":addrid
