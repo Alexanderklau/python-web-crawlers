@@ -40,7 +40,7 @@ def save_cookie():
     data = {
         "username": "xxxxxxxxxxxxxx",
         "loginType": "username",
-        "password": "xxxxxxxxxxxxx",
+        "password": "xxxxxxxxxx",
         "remember": "true"
     }
 
@@ -54,22 +54,45 @@ def save_cookie():
 
 
 def get_menu():
-    pass
+    menu_dict = {}
+    menu_list = []
+    Now_date = datetime.date.today()
+    uuid = get_for_my_order()["uuid"]
+    z = session.get("https://meican.com/preorder/api/v2.1/recommendations/dishes?tabUniqueId=e{uuid}&targetTime={Now}+09:40".format(uuid = uuid, Now=Now_date))
+    menu = json.loads(z.text)["myRegularDishList"]
+    for i in menu:
+        menu_dict["id"] = i["id"]
+        menu_dict["name"] = i["name"]
+        menu_list.append(menu_dict)
+    return menu_list
 
 
 def order_action():
-    pass
+    addrid = get_for_my_order()["addrid"]
+    z = session.post("https://meican.com/preorder/api/v2.1/orders/add")
 
+    data = {
+        "corpAddressUniqueId": addrid,
+        "order": addrid,
+        "remarks": "",
+        "tabUniqueId": "true",
+        "targetTime":"",
+        "userAddressUniqueId":" ``"
+    }
 
 
 def get_for_my_order():
     """
-    找到今天点了什么餐
+    找到usertorken, addrid
     :return:
     """
+    user_dict = {}
     Now_date = datetime.date.today()
     z = session.get("https://meican.com/preorder/api/v2.1/calendaritems/list?withOrderDetail=false&beginDate={Now}&endDate={Now}".format(Now=Now_date))
-    print(json.loads(z.text))
+    x = json.loads(z.text)
+    user_dict["uuid"] = x["dateList"][0]["calendarItemList"][0]["userTab"]["uniqueId"]
+    user_dict["addrid"] = x["dateList"][0]["calendarItemList"][0]["userTab"]["corp"]["addressList"][0]["uniqueId"]
+    return user_dict
 
 login_meican()
-get_for_my_order()
+print(get_for_my_order())
